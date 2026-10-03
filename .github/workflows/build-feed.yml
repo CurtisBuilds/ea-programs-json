@@ -1,0 +1,68 @@
+# Builds programs.json + cities.json from the EA Operations app (Supabase).
+#
+# TEST PERIOD (now): writes data/shadow/*.json only. The websites keep reading
+# data/*.json, which the Apps Script still publishes. Nothing customers see changes.
+#
+# SWITCH (later): 1) turn OFF the Apps Script push (Update Cards / Update league-hub),
+#                 2) set the repository variable PUBLISH_LIVE = true.
+#                 The next run writes data/programs.json + data/cities.json directly.
+# ROLLBACK:       set PUBLISH_LIVE = false (or disable this workflow) and turn the
+#                 Apps Script push back on. Git history keeps every previous file.
+name: Build website feed
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"     # every 15 minutes
+  workflow_dispatch: {}         # "Run workflow" button for a manual publish
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: https://qlaoilkioesmwqqhdxlr.supabase.co
+      PUBLISH_LIVE: ${{ vars.PUBLISH_LIVE || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch feed from Supabase
+        env:
+          KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          set -euo pipefail
+          hdr=(-H "apikey: $KEY" -H "Authorization: Bearer $KEY" -H "Accept: application/json")
+          curl -fsS "${hdr[@]}" "$SUPABASE_URL/rest/v1/website_feed?select=feed" -o /tmp/programs_raw.json
+          curl -fsS "${hdr[@]}" "$SUPABASE_URL/rest/v1/website_cities_feed?select=feed" -o /tmp/cities_raw.json
+          jq '[.[].feed] | sort_by(.Title // "")' /tmp/programs_raw.json > /tmp/programs.json
+          jq '[.[].feed] | sort_by(.City // "")'  /tmp/cities_raw.json   > /tmp/cities.json
+          p=$(jq length /tmp/programs.json); c=$(jq length /tmp/cities.json)
+          echo "programs=$p cities=$c"
+          # Safety: never publish a near-empty feed (a broken query must not blank the websites).
+          if [ "$p" -lt 100 ] || [ "$c" -lt 100 ]; then
+            echo "::error::Feed too small (programs=$p, cities=$c) — not publishing."; exit 1
+          fi
+
+      - name: Write files
+        run: |
+          set -euo pipefail
+          if [ "$PUBLISH_LIVE" = "true" ]; then dir=data; else dir=data/shadow; fi
+          mkdir -p "$dir"
+          cp /tmp/programs.json "$dir/programs.json"
+          cp /tmp/cities.json   "$dir/cities.json"
+          echo "Wrote to $dir/"
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "ea-feed-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then echo "No change."; exit 0; fi
+          git commit -m "feed: rebuild from EA Operations ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
