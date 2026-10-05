@@ -3949,7 +3949,7 @@
     "MinAge": "16",
     "Prorate": true,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "EA",
     "End Date": "2026-11-16",
     "Province": "ON",
