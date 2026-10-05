@@ -18,7 +18,12 @@ name: uptime
 on:
   schedule:
     - cron: "*/5 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      simulate_down:
+        description: "Test the alert: pretend registration is down (opens the alert issue; the next normal run closes it)"
+        type: boolean
+        default: false
 
 permissions:
   issues: write
@@ -34,7 +39,14 @@ jobs:
     steps:
       - name: Probe registration data
         id: probe
+        env:
+          SIMULATE_DOWN: ${{ inputs.simulate_down }}
         run: |
+          if [ "$SIMULATE_DOWN" = "true" ]; then
+            echo "state=down" >> "$GITHUB_OUTPUT"
+            echo "detail=TEST ONLY - simulated outage from a manual run; registration is actually fine." >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           url="https://qlaoilkioesmwqqhdxlr.supabase.co/functions/v1/uptime-health"
           state=down; detail=""
           for i in 1 2 3; do
