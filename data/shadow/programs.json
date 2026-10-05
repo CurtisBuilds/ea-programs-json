@@ -4493,7 +4493,7 @@
     "MinAge": "9",
     "Prorate": true,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "EA",
     "End Date": "2026-10-26",
     "Province": "ON",
