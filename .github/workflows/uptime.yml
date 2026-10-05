@@ -1,0 +1,84 @@
+name: uptime
+
+# Registration uptime watch (Kurt 2026-10-05).
+# On 2026-10-05 the database froze 4:51–5:28 PM ET: every registration page showed
+# no price and no card field, and nobody was alerted. This checks every 5 minutes,
+# from OUTSIDE Supabase, that the registration data loads.
+#
+# Lives in this PUBLIC repo on purpose: Actions minutes are free here. In the
+# private ea-operations repo a 5-minute job would burn ~8,600 billed minutes a month
+# (see the checkout-canary billing outage, Aug 2026). Source copy: ea-operations/ops/uptime/.
+#
+# Alerting = one GitHub issue, so you get ONE email when it goes down and ONE when
+# it recovers (repo owners are notified of new issues and comments by default):
+#   down (3 tries over ~40 s all fail) and no open "uptime" issue -> open one
+#   up and an "uptime" issue is open                              -> comment + close
+# The job itself never fails on "down", so there's no extra failure-email per run.
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  issues: write
+
+concurrency:
+  group: uptime
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Probe registration data
+        id: probe
+        run: |
+          url="https://qlaoilkioesmwqqhdxlr.supabase.co/functions/v1/uptime-health"
+          state=down; detail=""
+          for i in 1 2 3; do
+            code=$(curl -s -o body.json -w '%{http_code}' --max-time 15 "$url" || echo 000)
+            detail="attempt $i: HTTP $code $(head -c 200 body.json 2>/dev/null)"
+            echo "$detail"
+            if [ "$code" = "200" ]; then state=up; break; fi
+            [ $i -lt 3 ] && sleep 20
+          done
+          echo "state=$state" >> "$GITHUB_OUTPUT"
+          { echo "detail<<EOF"; echo "$detail"; echo "EOF"; } >> "$GITHUB_OUTPUT"
+
+      - name: Open or close the alert issue
+        uses: actions/github-script@v7
+        env:
+          STATE: ${{ steps.probe.outputs.state }}
+          DETAIL: ${{ steps.probe.outputs.detail }}
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const open = await github.rest.issues.listForRepo({ owner, repo, state: "open", labels: "uptime" });
+            const issue = open.data[0];
+            const when = new Date().toLocaleString("en-CA", { timeZone: "America/Toronto" });
+            if (process.env.STATE === "down" && !issue) {
+              await github.rest.issues.create({
+                owner, repo, labels: ["uptime"],
+                title: `REGISTRATION DOWN — app database not responding (${when})`,
+                body: [
+                  `Registration pages can't load program data right now (no price, no card field).`,
+                  ``,
+                  `Last check: ${process.env.DETAIL}`,
+                  ``,
+                  `What to do: Supabase dashboard → EA Operations → check status; if it stays down, Settings → General → Restart project.`,
+                  `This issue closes itself (and emails you) when it recovers.`,
+                  ``,
+                  `@CurtisBuilds`,
+                ].join("\n"),
+              });
+              core.warning("DOWN — alert issue opened");
+            } else if (process.env.STATE === "up" && issue) {
+              await github.rest.issues.createComment({ owner, repo, issue_number: issue.number,
+                body: `Recovered at ${when}. ${process.env.DETAIL}` });
+              await github.rest.issues.update({ owner, repo, issue_number: issue.number, state: "closed" });
+              core.notice("Recovered — alert issue closed");
+            } else {
+              core.info(`state=${process.env.STATE}, open alert=${issue ? "#" + issue.number : "none"}`);
+            }
