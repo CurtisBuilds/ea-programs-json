@@ -1,0 +1,94 @@
+name: site-check
+
+# Nightly website check (Kurt 2026-10-06).
+# Opens every city page on the three EA websites in a real browser and checks each
+# program card against programs.json: is it there, price, Full / Join Waitlist, the
+# Register link, day, time, dates and session count. Read-only: never clicks Register.
+#
+# Lives in this PUBLIC repo on purpose: Actions minutes are free here (see the
+# checkout-canary billing outage, Aug 2026). Source copy: ea-operations/ops/site-check/.
+#
+# Results:
+#   checks/site-check.json  - read by the app's Website Sync screen
+#   one GitHub issue (label "site-check") while there are HIGH problems: you get ONE
+#   email when it opens and ONE when it clears. Medium problems only show in the app.
+
+on:
+  schedule:
+    # 03:23 Toronto (EDT = UTC-4). Off the hour: GitHub delays runs on busy minutes.
+    - cron: "23 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+concurrency:
+  group: site-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright (chromium only)
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install --no-save playwright@1.47.2
+          npx playwright install --with-deps chromium
+
+      - name: Recent feed builds
+        id: feed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUNS=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow build-feed.yml -L 12 --json conclusion,createdAt || echo '[]')
+          echo "runs=$(echo "$RUNS" | tr -d '\n')" >> "$GITHUB_OUTPUT"
+
+      - name: Check the websites
+        id: check
+        env:
+          FEED_RUNS: ${{ steps.feed.outputs.runs }}
+        run: node .github/scripts/site-check.mjs
+
+      - name: Save results
+        run: |
+          git config user.name  "ea-site-check"
+          git config user.email "actions@users.noreply.github.com"
+          git add checks/site-check.json
+          git diff --cached --quiet && exit 0
+          git commit -m "site-check: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase -q && git push -q && exit 0
+            sleep 10
+          done
+          echo "::warning::could not push results"
+
+      - name: Alert (one issue while there are high problems)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HIGH: ${{ steps.check.outputs.high }}
+        run: |
+          gh label create site-check --color B60205 --description "Nightly website check" 2>/dev/null || true
+          OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label site-check --state open --json number -q '.[0].number' || true)
+          if [ "${HIGH:-0}" -gt 0 ]; then
+            if [ -z "$OPEN" ]; then
+              gh issue create --repo "$GITHUB_REPOSITORY" --label site-check \
+                --title "Website check: ${HIGH} problem(s) on the websites" --body-file checks/site-check.md
+            else
+              # Update the open issue quietly (editing sends no email; a comment would, every night).
+              gh issue edit "$OPEN" --repo "$GITHUB_REPOSITORY" \
+                --title "Website check: ${HIGH} problem(s) on the websites" --body-file checks/site-check.md >/dev/null
+            fi
+          elif [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --repo "$GITHUB_REPOSITORY" --body "All clear: the websites match the feed again."
+            gh issue close "$OPEN" --repo "$GITHUB_REPOSITORY"
+          fi
