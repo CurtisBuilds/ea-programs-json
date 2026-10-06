@@ -1659,7 +1659,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73308",
     "SessionDates": "2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": "155.40",
+    "updated_price": "148.00",
     "pageIdentifyer": "calgary",
     "StaticPriceText": null
   },
@@ -1675,7 +1675,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "18",
-    "Prorate": true,
+    "Prorate": false,
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/73306/6",
     "is_full": false,
     "Category": "EA",
@@ -1691,7 +1691,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73306",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": "135.98",
+    "updated_price": null,
     "pageIdentifyer": "calgary",
     "StaticPriceText": null
   },
@@ -2011,7 +2011,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77511",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
-    "updated_price": "194.25",
+    "updated_price": "185.00",
     "pageIdentifyer": "chilliwack",
     "StaticPriceText": null
   },
@@ -2043,7 +2043,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77512",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-02,2026-12-09",
     "is_cancelled": false,
-    "updated_price": "174.83",
+    "updated_price": "166.50",
     "pageIdentifyer": "chilliwack",
     "StaticPriceText": null
   },
@@ -2075,7 +2075,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73685",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "55.50",
     "pageIdentifyer": "coquitlam",
     "StaticPriceText": null
   },
@@ -2107,7 +2107,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73688",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04",
     "is_cancelled": false,
-    "updated_price": "97.13",
+    "updated_price": "92.50",
     "pageIdentifyer": "coquitlam",
     "StaticPriceText": null
   },
@@ -2139,7 +2139,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73686",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "55.50",
     "pageIdentifyer": "coquitlam",
     "StaticPriceText": null
   },
@@ -3531,7 +3531,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/78749/6",
     "is_full": false,
     "Category": "EA",
@@ -3547,9 +3547,9 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78749",
     "SessionDates": "2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23",
     "is_cancelled": false,
-    "updated_price": "135.98",
+    "updated_price": "111.00",
     "pageIdentifyer": "kamloops",
-    "StaticPriceText": "129.50"
+    "StaticPriceText": null
   },
   {
     "Day": "Wednesdays",
@@ -3563,7 +3563,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/78751/6",
     "is_full": false,
     "Category": "EA",
@@ -3579,9 +3579,9 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78751",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": "135.98",
+    "updated_price": "129.50",
     "pageIdentifyer": "kamloops",
-    "StaticPriceText": "129.50"
+    "StaticPriceText": null
   },
   {
     "Day": "Tuesdays",
@@ -3595,7 +3595,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": "https://organization.teamsnap.com/organizations/30447/registration/78750/6",
     "is_full": false,
     "Category": "EA",
@@ -3611,9 +3611,9 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78750",
     "SessionDates": "2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": "155.40",
+    "updated_price": "148.00",
     "pageIdentifyer": "kamloops",
-    "StaticPriceText": "166.50"
+    "StaticPriceText": null
   },
   {
     "Day": "Mondays",
@@ -3995,7 +3995,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73505",
     "SessionDates": "2026-09-02,2026-09-09,2026-09-16,2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11",
     "is_cancelled": false,
-    "updated_price": "116.55",
+    "updated_price": "111.00",
     "pageIdentifyer": "leduc",
     "StaticPriceText": null
   },
@@ -4011,7 +4011,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": true,
+    "Prorate": false,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -4059,7 +4059,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73498",
     "SessionDates": "2026-09-03,2026-09-10,2026-09-17,2026-09-24,2026-10-01,2026-10-08,2026-10-22,2026-10-29,2026-11-05,2026-11-12",
     "is_cancelled": false,
-    "updated_price": "97.13",
+    "updated_price": "92.50",
     "pageIdentifyer": "leduc",
     "StaticPriceText": null
   },
@@ -4123,7 +4123,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-sk/?program=EA-SK-002",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "130.00",
     "pageIdentifyer": "moose-jaw",
     "StaticPriceText": null
   },
@@ -4155,7 +4155,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77076",
     "SessionDates": "2026-09-14,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "55.50",
     "pageIdentifyer": "nanaimo",
     "StaticPriceText": null
   },
@@ -4187,7 +4187,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77078",
     "SessionDates": "2026-09-15,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "74.00",
     "pageIdentifyer": "nanaimo",
     "StaticPriceText": null
   },
@@ -5051,7 +5051,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74830",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23,2026-11-30,2026-12-07",
     "is_cancelled": false,
-    "updated_price": "174.83",
+    "updated_price": "148.00",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -5083,7 +5083,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74833",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-09",
     "is_cancelled": false,
-    "updated_price": "155.40",
+    "updated_price": "148.00",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -5115,7 +5115,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74832",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
-    "updated_price": "194.25",
+    "updated_price": "185.00",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -5147,7 +5147,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74831",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23,2026-11-30,2026-12-07,2026-12-14",
     "is_cancelled": false,
-    "updated_price": "194.25",
+    "updated_price": "166.50",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -5787,7 +5787,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73323",
     "SessionDates": "2026-09-05,2026-09-12,2026-09-19,2026-09-26,2026-10-03,2026-10-10,2026-10-17,2026-10-24,2026-10-31",
     "is_cancelled": false,
-    "updated_price": "97.13",
+    "updated_price": "74.00",
     "pageIdentifyer": "prince-george",
     "StaticPriceText": null
   },
@@ -5819,7 +5819,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73325",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-02",
     "is_cancelled": false,
-    "updated_price": "155.40",
+    "updated_price": "148.00",
     "pageIdentifyer": "prince-george",
     "StaticPriceText": null
   },
@@ -5851,7 +5851,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73324",
     "SessionDates": "2026-09-04,2026-09-11,2026-09-18,2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "74.00",
     "pageIdentifyer": "prince-george",
     "StaticPriceText": null
   },
@@ -6875,7 +6875,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-sk/?program=EA-SK-003",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "104.00",
     "pageIdentifyer": "saskatoon",
     "StaticPriceText": null
   },
@@ -6907,9 +6907,9 @@
     "RegisterLink": "https://registration.teamsnap.com/form/80051",
     "SessionDates": "2026-10-08,2026-10-15,2026-10-22,2026-11-05,2026-11-12,2026-11-19,2026-11-26,2026-12-03",
     "is_cancelled": false,
-    "updated_price": "135.98",
+    "updated_price": null,
     "pageIdentifyer": "sooke",
-    "StaticPriceText": "129.50"
+    "StaticPriceText": null
   },
   {
     "Day": "Tuesdays",
@@ -6923,7 +6923,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -6939,7 +6939,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81315",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "111.00",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -6955,7 +6955,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -6971,7 +6971,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81317",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-28,2026-11-04,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "111.00",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -6987,7 +6987,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -7003,7 +7003,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81314",
     "SessionDates": "2026-10-08,2026-10-15,2026-10-29,2026-11-05,2026-11-12,2026-11-19",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "111.00",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -7163,7 +7163,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/75761",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18",
     "is_cancelled": false,
-    "updated_price": "116.55",
+    "updated_price": "111.00",
     "pageIdentifyer": "surrey",
     "StaticPriceText": null
   },
@@ -7195,7 +7195,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73327",
     "SessionDates": "2026-09-17,2026-09-24,2026-10-01,2026-10-08,2026-10-15,2026-10-22",
     "is_cancelled": false,
-    "updated_price": "58.28",
+    "updated_price": "55.50",
     "pageIdentifyer": "surrey",
     "StaticPriceText": null
   },
@@ -7227,7 +7227,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73326",
     "SessionDates": "2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20",
     "is_cancelled": false,
-    "updated_price": "58.28",
+    "updated_price": "55.50",
     "pageIdentifyer": "surrey",
     "StaticPriceText": null
   },
@@ -7243,7 +7243,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -7259,7 +7259,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/80682",
     "SessionDates": "2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08,2026-12-15",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "185.00",
     "pageIdentifyer": "terrace",
     "StaticPriceText": null
   },
@@ -7307,7 +7307,7 @@
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
-    "Prorate": false,
+    "Prorate": true,
     "fee_url": null,
     "is_full": false,
     "Category": "EA",
@@ -7323,7 +7323,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/80685",
     "SessionDates": "2026-10-15,2026-10-22,2026-10-29,2026-11-05,2026-11-12,2026-11-19,2026-11-26,2026-12-03,2026-12-10,2026-12-17",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "185.00",
     "pageIdentifyer": "terrace",
     "StaticPriceText": null
   },
@@ -7451,7 +7451,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/72687",
     "SessionDates": "2026-09-11,2026-09-18,2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "74.00",
     "pageIdentifyer": "victoria",
     "StaticPriceText": null
   },
@@ -7483,7 +7483,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/76412",
     "SessionDates": "2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "74.00",
     "pageIdentifyer": "victoria",
     "StaticPriceText": null
   },
@@ -7515,7 +7515,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/76411",
     "SessionDates": "2026-09-20,2026-09-27,2026-10-04,2026-10-11,2026-10-18,2026-10-25",
     "is_cancelled": false,
-    "updated_price": "77.70",
+    "updated_price": "55.50",
     "pageIdentifyer": "victoria",
     "StaticPriceText": null
   },
@@ -7739,7 +7739,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-mb/?program=EA-MB-001",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": null,
+    "updated_price": "104.00",
     "pageIdentifyer": "winnipeg",
     "StaticPriceText": null
   }
