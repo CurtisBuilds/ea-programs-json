@@ -27,6 +27,19 @@
   },
   {
     "GPN": "N/A",
+    "lat": 43.8508553,
+    "lng": -79.0203732,
+    "City": "Ajax",
+    "Active": 1,
+    "CityID": 556,
+    "PageURL": "https://eapickleball.com/ajax/",
+    "Province": "ON",
+    "NearbyActive": "59,5,17,57",
+    "facebook_link": null,
+    "newsletter_shortcode": null
+  },
+  {
+    "GPN": "N/A",
     "lat": 44.1539369,
     "lng": -79.8692321,
     "City": "Alliston",
@@ -229,7 +242,7 @@
     "CityID": 24,
     "PageURL": "https://eapickleball.com/bowmanville/",
     "Province": "ON",
-    "NearbyActive": "17,5,59,34",
+    "NearbyActive": "17,5,59,556",
     "facebook_link": "https://www.facebook.com/groups/1679819529114744/permalink/1868773170219378/?mibextid=W9rl1R",
     "newsletter_shortcode": "29171"
   },
@@ -606,7 +619,7 @@
     "CityID": 17,
     "PageURL": "https://eapickleball.com/courtice/",
     "Province": "ON",
-    "NearbyActive": "5,24,59,34",
+    "NearbyActive": "5,24,59,556",
     "facebook_link": "https://www.facebook.com/groups/1150648605625416",
     "newsletter_shortcode": "29176"
   },
@@ -1290,19 +1303,6 @@
     "GPN": "N/A",
     "lat": null,
     "lng": null,
-    "City": "Medicine Hat",
-    "Active": 0,
-    "CityID": 216,
-    "PageURL": "https://eapickleball.com/medicine-hat",
-    "Province": "SK",
-    "NearbyActive": null,
-    "facebook_link": "https://www.facebook.com/groups/3312953932334784/?rdid=tUJNVrQIGE8BGk6N&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2FvrnP9vUXbG8ex1wi%2F#",
-    "newsletter_shortcode": "30761"
-  },
-  {
-    "GPN": "N/A",
-    "lat": null,
-    "lng": null,
     "City": "Melford",
     "Active": 0,
     "CityID": 217,
@@ -1659,7 +1659,7 @@
     "CityID": 5,
     "PageURL": "https://eapickleball.com/oshawa/",
     "Province": "ON",
-    "NearbyActive": "59,17,24,34",
+    "NearbyActive": "59,17,556,24",
     "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=TPV7MigOn3PQ4lRx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP",
     "newsletter_shortcode": "29186"
   },
@@ -1789,7 +1789,7 @@
     "CityID": 164,
     "PageURL": "https://eapickleball.com/pickering/",
     "Province": "ON",
-    "NearbyActive": "59,5,57,17",
+    "NearbyActive": "556,59,5,57",
     "facebook_link": "https://www.facebook.com/groups/342167091929491/permalink/342167911929409/?mibextid=W9rl1R",
     "newsletter_shortcode": "29191"
   },
@@ -2764,7 +2764,7 @@
     "CityID": 15,
     "PageURL": "https://eapickleball.com/uxbridge/",
     "Province": "ON",
-    "NearbyActive": "230,34,57,137",
+    "NearbyActive": "230,34,57,555",
     "facebook_link": "https://www.facebook.com/groups/1209556549983698",
     "newsletter_shortcode": "29397"
   },
@@ -2933,7 +2933,7 @@
     "CityID": 59,
     "PageURL": "https://eapickleball.com/whitby/",
     "Province": "ON",
-    "NearbyActive": "5,17,24,34",
+    "NearbyActive": "5,556,17,24",
     "facebook_link": "https://www.facebook.com/groups/1865183903999282/?ref=share&mibextid=K35XfP&rdid=fBGxcnofLSiiBdMZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2Fspu9Vp21iTD1ig7C%2F%3Fmibextid%3DK35XfP#",
     "newsletter_shortcode": "29050"
   },
