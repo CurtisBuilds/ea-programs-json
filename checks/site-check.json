@@ -1,0 +1,433 @@
+{
+  "ran_at": "2026-10-06T17:59:25.785Z",
+  "finished_at": "2026-10-06T18:01:32.699Z",
+  "feed_rows": 242,
+  "pages_checked": 70,
+  "cards_expected": 238,
+  "cards_seen": 238,
+  "high": 0,
+  "medium": 0,
+  "problems": [],
+  "pages": [
+    {
+      "page": "eapickleball.com/ajax",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/alliston",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/almonte",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/arnprior",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eabadminton.com/newmarket-and-aurora",
+      "expected": 9,
+      "cards": 9,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/aurora",
+      "expected": 12,
+      "cards": 12,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/bancroft",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/barrie",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/bolton",
+      "expected": 4,
+      "cards": 4,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/bowmanville",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/bracebridge",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/bradford",
+      "expected": 6,
+      "cards": 6,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/brampton",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/brock",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/caledon",
+      "expected": 7,
+      "cards": 7,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/calgary",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/cambridge",
+      "expected": 6,
+      "cards": 6,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/cannington",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/carleton-place",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/chilliwack",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/coquitlam",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/cornwall",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/courtice",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/east-gwillimbury",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/erin",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/essa",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/fonthill",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eabadminton.com/georgina",
+      "expected": 4,
+      "cards": 4,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/georgina",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/gravenhurst",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/grimsby",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/guelph",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/haliburton",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/innisfil",
+      "expected": 9,
+      "cards": 9,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/volleyball",
+      "expected": 4,
+      "cards": 4,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/kamloops",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/keswick",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/king-city",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/lakefield",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/leduc",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/lindsay",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/moose-jaw",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/nanaimo",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/newmarket",
+      "expected": 9,
+      "cards": 9,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/newmarket",
+      "expected": 11,
+      "cards": 11,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/north-vancouver",
+      "expected": 4,
+      "cards": 4,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/oro-medonte",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/oro-medonte",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/oshawa",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/ottawa",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/port-colborne",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/port-perry",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/prince-george",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eabadminton.com/richmond-hill",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/richmond-hill",
+      "expected": 22,
+      "cards": 22,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/richmond-hill",
+      "expected": 4,
+      "cards": 4,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/sandford",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/saskatoon",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/sooke",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/squamish",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/st-catharines",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/stouffville",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/surrey",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/terrace",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/tottenham",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/uxbridge",
+      "expected": 2,
+      "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/victoria",
+      "expected": 3,
+      "cards": 3,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/wasaga-beach",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/whitby",
+      "expected": 5,
+      "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "eapickleball.com/winnipeg",
+      "expected": 1,
+      "cards": 1,
+      "problems": 0
+    }
+  ]
+}
