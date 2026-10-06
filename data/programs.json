@@ -219,7 +219,7 @@
     "RegisterLink": "https://elevationathletics.ca/register/?program=EA-PROGRAM-537",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08,2026-12-15",
     "is_cancelled": false,
-    "updated_price": "275.00",
+    "updated_price": "250.00",
     "pageIdentifyer": "newmarket-and-aurora",
     "StaticPriceText": null
   },
@@ -987,7 +987,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-286",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "bracebridge",
     "StaticPriceText": null
   },
@@ -1403,7 +1403,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-552",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": "104.00",
+    "updated_price": "91.00",
     "pageIdentifyer": "brock",
     "StaticPriceText": null
   },
@@ -1435,7 +1435,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-435",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "119.00",
+    "updated_price": "102.00",
     "pageIdentifyer": "caledon",
     "StaticPriceText": null
   },
@@ -1499,7 +1499,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-434",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "119.00",
+    "updated_price": "102.00",
     "pageIdentifyer": "caledon",
     "StaticPriceText": null
   },
@@ -2171,7 +2171,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-317",
     "SessionDates": "2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03",
     "is_cancelled": false,
-    "updated_price": "75.00",
+    "updated_price": "60.00",
     "pageIdentifyer": "cornwall",
     "StaticPriceText": null
   },
@@ -2267,7 +2267,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-327",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "courtice",
     "StaticPriceText": null
   },
@@ -2587,7 +2587,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-296",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10",
     "is_cancelled": false,
-    "updated_price": "78.00",
+    "updated_price": "65.00",
     "pageIdentifyer": "fonthill",
     "StaticPriceText": null
   },
@@ -3867,7 +3867,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-396",
     "SessionDates": "2026-09-08,2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "lakefield",
     "StaticPriceText": null
   },
@@ -4667,7 +4667,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-397",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "newmarket",
     "StaticPriceText": null
   },
@@ -4763,7 +4763,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-529",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "newmarket",
     "StaticPriceText": null
   },
@@ -5403,7 +5403,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-432",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03",
     "is_cancelled": false,
-    "updated_price": "65.00",
+    "updated_price": "52.00",
     "pageIdentifyer": "oshawa",
     "StaticPriceText": null
   },
@@ -6587,7 +6587,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-319",
     "SessionDates": "2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "richmond-hill",
     "StaticPriceText": null
   },
@@ -6747,7 +6747,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-430",
     "SessionDates": "2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-17,2026-11-24,2026-12-01,2027-01-05",
     "is_cancelled": false,
-    "updated_price": "117.00",
+    "updated_price": "104.00",
     "pageIdentifyer": "sandford",
     "StaticPriceText": null
   },
@@ -6971,7 +6971,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-292",
     "SessionDates": "2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "st-catharines",
     "StaticPriceText": null
   },
@@ -7035,7 +7035,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-530",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10",
     "is_cancelled": false,
-    "updated_price": "90.00",
+    "updated_price": "75.00",
     "pageIdentifyer": "stouffville",
     "StaticPriceText": null
   },
@@ -7291,7 +7291,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-460",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2027-01-05,2027-01-12",
     "is_cancelled": false,
-    "updated_price": "130.00",
+    "updated_price": "117.00",
     "pageIdentifyer": "uxbridge",
     "StaticPriceText": null
   },
