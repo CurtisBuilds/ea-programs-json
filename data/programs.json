@@ -3733,7 +3733,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 109.2,
+    "TotalPrice": 93.6,
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
     "RegisterLink": "https://townshipofking.perfectmind.com/23793/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=fbc10531-dbdf-4065-b2a9-bba7c5c55a06",
@@ -3741,7 +3741,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "109.20"
+    "StaticPriceText": "93.60"
   },
   {
     "Day": "Tuesdays",
@@ -3765,7 +3765,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 109.2,
+    "TotalPrice": 93.6,
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
     "RegisterLink": "https://townshipofking.perfectmind.com/23793/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=15f6af07-39c5-473e-b053-96653f77a406&redirectedFromEmbededMode=False&courseId=92cab458-f0bf-4c2f-a847-e51b8f8360aa",
@@ -3773,7 +3773,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "109.20"
+    "StaticPriceText": "93.60"
   },
   {
     "Day": "Mondays",
@@ -5901,7 +5901,7 @@
     "MinAge": "11",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-24",
     "Province": "ON",

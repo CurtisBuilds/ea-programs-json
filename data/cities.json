@@ -2327,32 +2327,6 @@
     "newsletter_shortcode": 45225
   },
   {
-    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
-    "lat": 43.1579812,
-    "lng": -79.2441003,
-    "City": "St Catharines",
-    "Active": 3,
-    "CityID": 174,
-    "PageURL": "https://eapickleball.com/st-catharines/",
-    "Province": "ON",
-    "NearbyActive": "144,146,47,22",
-    "facebook_link": "https://www.facebook.com/groups/1439847283183799/?ref=share&mibextid=NSMWBT",
-    "newsletter_shortcode": "28936"
-  },
-  {
-    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario",
-    "lat": 42.779022,
-    "lng": -81.1929882,
-    "City": "St Thomas",
-    "Active": 0,
-    "CityID": 175,
-    "PageURL": "https://eapickleball.com/st-thomas/",
-    "Province": "ON",
-    "NearbyActive": "23,31,146,499",
-    "facebook_link": "https://www.facebook.com/groups/1839634910206398/?ref=share&mibextid=NSMWBT",
-    "newsletter_shortcode": "28876"
-  },
-  {
     "GPN": "N/A",
     "lat": 45.3056879,
     "lng": -73.2533401,
@@ -2405,6 +2379,19 @@
     "newsletter_shortcode": "31333"
   },
   {
+    "GPN": "https://www.globalpickleball.network/network/register/5074-elevation-athletics-niagara-region",
+    "lat": 43.1579812,
+    "lng": -79.2441003,
+    "City": "St. Catharines",
+    "Active": 3,
+    "CityID": 174,
+    "PageURL": "https://eapickleball.com/st-catharines/",
+    "Province": "ON",
+    "NearbyActive": "144,146,47,22",
+    "facebook_link": "https://www.facebook.com/groups/1439847283183799/?ref=share&mibextid=NSMWBT",
+    "newsletter_shortcode": "28936"
+  },
+  {
     "GPN": "N/A",
     "lat": null,
     "lng": null,
@@ -2416,6 +2403,19 @@
     "NearbyActive": null,
     "facebook_link": "https://www.facebook.com/groups/1004196514814732",
     "newsletter_shortcode": "32129"
+  },
+  {
+    "GPN": "https://www.globalpickleball.network/network/register/5060-elevation-athletics-southwestern-ontario",
+    "lat": 42.779022,
+    "lng": -81.1929882,
+    "City": "St. Thomas",
+    "Active": 0,
+    "CityID": 175,
+    "PageURL": "https://eapickleball.com/st-thomas/",
+    "Province": "ON",
+    "NearbyActive": "23,31,146,499",
+    "facebook_link": "https://www.facebook.com/groups/1839634910206398/?ref=share&mibextid=NSMWBT",
+    "newsletter_shortcode": "28876"
   },
   {
     "GPN": "N/A",
