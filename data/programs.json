@@ -1787,7 +1787,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-466",
     "SessionDates": "2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": "104.00",
+    "updated_price": "91.00",
     "pageIdentifyer": "cambridge",
     "StaticPriceText": null
   },
@@ -1819,7 +1819,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-444",
     "SessionDates": "2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11,2026-11-18",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "cambridge",
     "StaticPriceText": null
   },
@@ -1965,7 +1965,7 @@
     "MinAge": "16",
     "Prorate": true,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "EA",
     "End Date": "2026-12-08",
     "Province": "ON",
