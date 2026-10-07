@@ -1953,7 +1953,7 @@
   },
   {
     "Day": "Tuesdays",
-    "URL": "https://eapickleball.com/carleton-place",
+    "URL": "https://eapickleball.com/carleton-place/",
     "age": null,
     "City": "Carleton Place",
     "Time": "6:00 - 8:00 PM",
@@ -1980,7 +1980,7 @@
     "SessionDates": "2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
     "updated_price": "91.00",
-    "pageIdentifyer": "lanark-county",
+    "pageIdentifyer": "carleton-place",
     "StaticPriceText": null
   },
   {
