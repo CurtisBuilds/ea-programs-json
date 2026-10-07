@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-06T17:59:25.785Z",
-  "finished_at": "2026-10-06T18:01:32.699Z",
-  "feed_rows": 242,
+  "ran_at": "2026-10-07T10:15:41.004Z",
+  "finished_at": "2026-10-07T10:18:20.782Z",
+  "feed_rows": 240,
   "pages_checked": 70,
-  "cards_expected": 238,
-  "cards_seen": 238,
+  "cards_expected": 236,
+  "cards_seen": 236,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -119,8 +119,8 @@
     },
     {
       "page": "eapickleball.com/carleton-place",
-      "expected": 2,
-      "cards": 2,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -209,8 +209,8 @@
     },
     {
       "page": "elevationathletics.ca/innisfil",
-      "expected": 9,
-      "cards": 9,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
