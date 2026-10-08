@@ -1,13 +1,23 @@
 {
-  "ran_at": "2026-10-08T08:10:39.183Z",
-  "finished_at": "2026-10-08T08:13:04.570Z",
+  "ran_at": "2026-10-08T14:43:05.712Z",
+  "finished_at": "2026-10-08T14:45:34.212Z",
   "feed_rows": 240,
   "pages_checked": 70,
   "cards_expected": 236,
   "cards_seen": 236,
-  "high": 0,
+  "high": 1,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "page": null,
+      "program": null,
+      "title": null,
+      "field": "publishing",
+      "expected": "feed published in the last 2 hours",
+      "shown": "last success 2026-10-08T12:45:03.000Z"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
