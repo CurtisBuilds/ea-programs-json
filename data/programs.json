@@ -853,7 +853,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-451",
     "SessionDates": "2026-09-24,2026-10-01,2026-10-08,2026-10-15,2026-10-22,2026-10-29,2026-11-05,2026-11-12",
     "is_cancelled": false,
-    "updated_price": "78.00",
+    "updated_price": "65.00",
     "pageIdentifyer": "bolton",
     "StaticPriceText": null
   },
@@ -1810,7 +1810,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-468",
     "SessionDates": "2026-10-01,2026-10-08,2026-10-15,2026-10-22,2026-10-29,2026-11-05,2026-11-12,2026-11-19,2026-11-26",
     "is_cancelled": false,
-    "updated_price": "104.00",
+    "updated_price": "91.00",
     "pageIdentifyer": "cambridge",
     "StaticPriceText": null
   },
