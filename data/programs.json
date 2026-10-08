@@ -2075,7 +2075,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77512",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-02,2026-12-09",
     "is_cancelled": false,
-    "updated_price": "166.50",
+    "updated_price": "148.00",
     "pageIdentifyer": "chilliwack",
     "StaticPriceText": null
   },
@@ -2139,7 +2139,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73688",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04",
     "is_cancelled": false,
-    "updated_price": "92.50",
+    "updated_price": "74.00",
     "pageIdentifyer": "coquitlam",
     "StaticPriceText": null
   },
@@ -3515,7 +3515,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78751",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": "129.50",
+    "updated_price": "111.00",
     "pageIdentifyer": "kamloops",
     "StaticPriceText": null
   },
@@ -5019,7 +5019,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74833",
     "SessionDates": "2026-09-23,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-09",
     "is_cancelled": false,
-    "updated_price": "148.00",
+    "updated_price": "129.50",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -5755,7 +5755,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73325",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18,2026-11-25,2026-12-02",
     "is_cancelled": false,
-    "updated_price": "148.00",
+    "updated_price": "129.50",
     "pageIdentifyer": "prince-george",
     "StaticPriceText": null
   },
@@ -6907,7 +6907,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81317",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-28,2026-11-04,2026-11-18,2026-11-25",
     "is_cancelled": false,
-    "updated_price": "111.00",
+    "updated_price": "92.50",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -7099,7 +7099,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/75761",
     "SessionDates": "2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-18",
     "is_cancelled": false,
-    "updated_price": "111.00",
+    "updated_price": "92.50",
     "pageIdentifyer": "surrey",
     "StaticPriceText": null
   },
