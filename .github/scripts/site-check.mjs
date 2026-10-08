@@ -11,6 +11,9 @@ import fs from "node:fs";
 import { extractCards, pageTextProblems, normUrl, expectedRows, comparePage } from "./site-check-core.mjs";
 
 const FEED = "https://curtisbuilds.github.io/ea-programs-json/data/programs.json";
+// Public (publishable) key — only used for website_publish_lag(), which returns timing facts.
+const SB_URL = "https://qlaoilkioesmwqqhdxlr.supabase.co";
+const SB_KEY = "sb_publishable_txUhNNXpEdH2OHGq5J6q4g_uJDKei52";
 const OUT_DIR = process.env.OUT_DIR || "checks";
 const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Toronto" });
 const started = new Date();
@@ -86,16 +89,33 @@ for (const [u, expected] of pages) {
 }
 await browser.close();
 
-// Publish health: the feed workflow should have succeeded in the last 2 hours.
+// Publish health (2026-10-08). The feed only publishes when something changes, so a quiet
+// day with no publish is normal. Flag only real failures:
+//   1. the most recent build-feed run on GitHub failed;
+//   2. the database has feed changes that have waited more than 2 hours to publish.
 try {
-  const runs = JSON.parse(process.env.FEED_RUNS || "[]");
-  const ok = runs.filter((r) => r.conclusion === "success").map((r) => new Date(r.createdAt));
-  const last = ok.length ? new Date(Math.max(...ok)) : null;
-  if (runs.length && (!last || Date.now() - last.getTime() > 2 * 3600_000)) {
+  const runs = JSON.parse(process.env.FEED_RUNS || "[]")
+    .filter((r) => r.conclusion)                                   // finished runs only
+    .sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+  const latest = runs[0];
+  if (latest && latest.conclusion !== "success" && latest.conclusion !== "skipped") {
     problems.push({ severity: "high", page: null, program: null, title: null, field: "publishing",
-      expected: "feed published in the last 2 hours", shown: last ? `last success ${last.toISOString()}` : "no recent success" });
+      expected: "last feed publish succeeded", shown: `last publish ${latest.conclusion} at ${new Date(latest.createdAt).toISOString()}` });
   }
 } catch { /* gh not available — skip */ }
+try {
+  const r = await fetch(`${SB_URL}/rest/v1/rpc/website_publish_lag`, {
+    method: "POST", headers: { "content-type": "application/json", apikey: SB_KEY, authorization: `Bearer ${SB_KEY}` }, body: "{}",
+  });
+  if (r.ok) {
+    const lag = await r.json();
+    if (lag && lag.pending && lag.pending_minutes > 120) {
+      problems.push({ severity: "high", page: null, program: null, title: null, field: "publishing",
+        expected: "feed changes published within 2 hours",
+        shown: `changes waiting ${Math.round(lag.pending_minutes / 60 * 10) / 10} h (since ${lag.pending_since})` });
+    }
+  }
+} catch { /* database not reachable — the card comparison above still ran */ }
 
 const high = problems.filter((p) => p.severity === "high").length;
 const medium = problems.length - high;
