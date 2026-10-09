@@ -28,7 +28,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-473",
     "SessionDates": "2026-09-18,2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "ajax",
     "StaticPriceText": null
   },
@@ -127,7 +127,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-544",
     "SessionDates": "2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-20",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "almonte",
     "StaticPriceText": null
   },
@@ -787,7 +787,7 @@
     "RegisterLink": "https://elevationathletics.ca/register/?program=EA-PROGRAM-574",
     "SessionDates": "2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-20",
     "is_cancelled": false,
-    "updated_price": "175.00",
+    "updated_price": "150.00",
     "pageIdentifyer": "barrie",
     "StaticPriceText": null
   },
@@ -853,7 +853,7 @@
     "RegisterLink": "https://elevationathletics.ca/register/?program=EA-PROGRAM-566",
     "SessionDates": "2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-20",
     "is_cancelled": false,
-    "updated_price": "175.00",
+    "updated_price": "150.00",
     "pageIdentifyer": "barrie",
     "StaticPriceText": null
   },
@@ -1414,7 +1414,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-453",
     "SessionDates": "2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13",
     "is_cancelled": false,
-    "updated_price": "102.00",
+    "updated_price": "85.00",
     "pageIdentifyer": "brampton",
     "StaticPriceText": null
   },
@@ -2074,7 +2074,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-545",
     "SessionDates": "2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-20",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "carleton-place",
     "StaticPriceText": null
   },
@@ -2140,7 +2140,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-546",
     "SessionDates": "2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-20",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "carleton-place",
     "StaticPriceText": null
   },
@@ -3262,7 +3262,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-294",
     "SessionDates": "2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13",
     "is_cancelled": false,
-    "updated_price": "78.00",
+    "updated_price": "65.00",
     "pageIdentifyer": "grimsby",
     "StaticPriceText": null
   },
@@ -3823,7 +3823,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-335",
     "SessionDates": "2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-27",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "keswick",
     "StaticPriceText": null
   },
@@ -4879,7 +4879,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-332",
     "SessionDates": "2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-10-30,2026-11-06,2026-11-13,2026-11-27",
     "is_cancelled": false,
-    "updated_price": "105.00",
+    "updated_price": "90.00",
     "pageIdentifyer": "newmarket",
     "StaticPriceText": null
   },
@@ -7849,7 +7849,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-476",
     "SessionDates": "2026-09-18,2026-09-25,2026-10-02,2026-10-09,2026-10-16,2026-10-23,2026-11-06",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "whitby",
     "StaticPriceText": null
   },
