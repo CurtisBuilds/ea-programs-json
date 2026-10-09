@@ -1,29 +1,29 @@
 {
-  "ran_at": "2026-10-08T14:43:05.712Z",
-  "finished_at": "2026-10-08T14:45:34.212Z",
+  "ran_at": "2026-10-09T08:11:11.101Z",
+  "finished_at": "2026-10-09T08:14:28.613Z",
   "feed_rows": 240,
   "pages_checked": 70,
   "cards_expected": 236,
-  "cards_seen": 236,
+  "cards_seen": 235,
   "high": 1,
   "medium": 0,
   "problems": [
     {
       "severity": "high",
-      "page": null,
-      "program": null,
-      "title": null,
-      "field": "publishing",
-      "expected": "feed published in the last 2 hours",
-      "shown": "last success 2026-10-08T12:45:03.000Z"
+      "program": "EA-PROGRAM-473",
+      "title": "Ajax - LEVEL 1: Beginners Pickleball League",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eapickleball.com/ajax"
     }
   ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
       "expected": 1,
-      "cards": 1,
-      "problems": 0
+      "cards": 0,
+      "problems": 1
     },
     {
       "page": "eapickleball.com/alliston",
