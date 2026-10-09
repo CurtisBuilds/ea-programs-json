@@ -1,29 +1,19 @@
 {
-  "ran_at": "2026-10-09T08:11:11.101Z",
-  "finished_at": "2026-10-09T08:14:28.613Z",
+  "ran_at": "2026-10-09T14:27:23.892Z",
+  "finished_at": "2026-10-09T14:29:57.674Z",
   "feed_rows": 240,
-  "pages_checked": 70,
+  "pages_checked": 71,
   "cards_expected": 236,
-  "cards_seen": 235,
-  "high": 1,
+  "cards_seen": 236,
+  "high": 0,
   "medium": 0,
-  "problems": [
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-473",
-      "title": "Ajax - LEVEL 1: Beginners Pickleball League",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eapickleball.com/ajax"
-    }
-  ],
+  "problems": [],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
       "expected": 1,
-      "cards": 0,
-      "problems": 1
+      "cards": 1,
+      "problems": 0
     },
     {
       "page": "eapickleball.com/alliston",
@@ -224,9 +214,9 @@
       "problems": 0
     },
     {
-      "page": "elevationathletics.ca/volleyball",
-      "expected": 4,
-      "cards": 4,
+      "page": "elevationathletics.ca/volleyball/innisfil",
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -305,6 +295,12 @@
       "page": "eapickleball.com/oro-medonte",
       "expected": 5,
       "cards": 5,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/volleyball/oro-medonte",
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
