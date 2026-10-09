@@ -2628,7 +2628,7 @@
     "fee_index": null,
     "Exceptions": "2026-11-05",
     "Start Date": "2026-09-24",
-    "TotalPrice": 90,
+    "TotalPrice": 75,
     "ListingCode": "EA-PROGRAM-508",
     "LocationLink": "https://maps.app.goo.gl/ennbjqXwyaLg76x66",
     "LocationName": "Angus Recreation Centre",
@@ -2637,7 +2637,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "essa",
-    "StaticPriceText": "90"
+    "StaticPriceText": "75"
   },
   {
     "Day": "Thursdays",
@@ -2661,7 +2661,7 @@
     "fee_index": null,
     "Exceptions": "2026-11-05",
     "Start Date": "2026-09-24",
-    "TotalPrice": 90,
+    "TotalPrice": 75,
     "ListingCode": "EA-PROGRAM-509",
     "LocationLink": "https://maps.app.goo.gl/ennbjqXwyaLg76x66",
     "LocationName": "Angus Recreation Centre",
@@ -2670,7 +2670,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "essa",
-    "StaticPriceText": "90"
+    "StaticPriceText": "75"
   },
   {
     "Day": "Tuesdays",
