@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-09T14:27:23.892Z",
-  "finished_at": "2026-10-09T14:29:57.674Z",
-  "feed_rows": 240,
+  "ran_at": "2026-10-10T08:10:41.581Z",
+  "finished_at": "2026-10-10T08:13:29.428Z",
+  "feed_rows": 242,
   "pages_checked": 71,
-  "cards_expected": 236,
-  "cards_seen": 236,
+  "cards_expected": 238,
+  "cards_seen": 238,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -53,8 +53,8 @@
     },
     {
       "page": "elevationathletics.ca/barrie",
-      "expected": 2,
-      "cards": 2,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
