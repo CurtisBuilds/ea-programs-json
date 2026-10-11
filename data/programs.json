@@ -6085,7 +6085,7 @@
     "MinAge": "11",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-28",
     "Province": "ON",
