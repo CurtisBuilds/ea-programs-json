@@ -1,19 +1,38 @@
 {
-  "ran_at": "2026-10-10T13:53:05.516Z",
-  "finished_at": "2026-10-10T13:55:23.999Z",
+  "ran_at": "2026-10-11T08:10:35.156Z",
+  "finished_at": "2026-10-11T08:14:16.185Z",
   "feed_rows": 242,
   "pages_checked": 71,
   "cards_expected": 238,
-  "cards_seen": 238,
-  "high": 0,
+  "cards_seen": 228,
+  "high": 2,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-473",
+      "title": "Ajax - LEVEL 1: Beginners Pickleball League",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eapickleball.com/ajax"
+    },
+    {
+      "severity": "high",
+      "page": "eabadminton.com/newmarket-and-aurora",
+      "program": null,
+      "title": null,
+      "field": "page",
+      "expected": "loads",
+      "shown": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
       "expected": 1,
-      "cards": 1,
-      "problems": 0
+      "cards": 0,
+      "problems": 1
     },
     {
       "page": "eapickleball.com/alliston",
@@ -36,8 +55,8 @@
     {
       "page": "eabadminton.com/newmarket-and-aurora",
       "expected": 9,
-      "cards": 9,
-      "problems": 0
+      "cards": 0,
+      "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
     },
     {
       "page": "eapickleball.com/aurora",
