@@ -138,7 +138,7 @@
     "CityID": 229,
     "PageURL": "https://eapickleball.com/bancroft/",
     "Province": "ON",
-    "NearbyActive": "231,40,150,61",
+    "NearbyActive": "231,40,36,150",
     "facebook_link": "N/A",
     "newsletter_shortcode": "N/A"
   },
@@ -203,7 +203,7 @@
     "CityID": 134,
     "PageURL": "https://eapickleball.com/belleville/",
     "Province": "ON",
-    "NearbyActive": "40,229,24,150",
+    "NearbyActive": "36,40,229,24",
     "facebook_link": "https://www.facebook.com/groups/5899524516802504/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": "28768"
   },
@@ -528,7 +528,7 @@
     "CityID": 60,
     "PageURL": "https://eapickleball.com/cobourg/",
     "Province": "ON",
-    "NearbyActive": "24,17,40,5",
+    "NearbyActive": "36,24,17,40",
     "facebook_link": "https://www.facebook.com/groups/665385346374202/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": "28749"
   },
@@ -1113,7 +1113,7 @@
     "CityID": 40,
     "PageURL": "https://eapickleball.com/lakefield/",
     "Province": "ON",
-    "NearbyActive": "150,137,555,34",
+    "NearbyActive": "36,150,137,555",
     "facebook_link": "https://www.facebook.com/groups/564816432370631",
     "newsletter_shortcode": "29045"
   },
@@ -1217,7 +1217,7 @@
     "CityID": 150,
     "PageURL": "https://eapickleball.com/lindsay/",
     "Province": "ON",
-    "NearbyActive": "137,555,34,40",
+    "NearbyActive": "137,555,34,36",
     "facebook_link": "https://www.facebook.com/groups/1202763951166310/?ref=share&mibextid=wwXIfr&rdid=lffBIzf7UdE36PEV&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F18ZiZe7e88%2F%3Fmibextid%3DwwXIfr#",
     "newsletter_shortcode": "29764"
   },
@@ -1594,7 +1594,7 @@
     "CityID": 158,
     "PageURL": "https://eapickleball.com/norwood/",
     "Province": "ON",
-    "NearbyActive": "40,150,229,24",
+    "NearbyActive": "40,36,150,229",
     "facebook_link": "https://www.facebook.com/groups/1182369695799093",
     "newsletter_shortcode": "29272"
   },
@@ -1772,7 +1772,7 @@
     "lat": 44.3048009,
     "lng": -78.3199496,
     "City": "Peterborough",
-    "Active": 0,
+    "Active": 2,
     "CityID": 36,
     "PageURL": "https://eapickleball.com/peterborough/",
     "Province": "ON",
@@ -1802,7 +1802,7 @@
     "CityID": 165,
     "PageURL": "https://eapickleball.com/picton/",
     "Province": "ON",
-    "NearbyActive": "40,24,229,17",
+    "NearbyActive": "36,40,24,229",
     "facebook_link": "N/A",
     "newsletter_shortcode": "N/A"
   },
@@ -1854,7 +1854,7 @@
     "CityID": 55,
     "PageURL": "https://eapickleball.com/port-hope/",
     "Province": "ON",
-    "NearbyActive": "24,17,5,40",
+    "NearbyActive": "24,17,36,5",
     "facebook_link": "https://www.facebook.com/groups/898989991775191/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": 28759
   },
@@ -2465,7 +2465,7 @@
     "CityID": 56,
     "PageURL": "https://eapickleball.com/stirling/",
     "Province": "ON",
-    "NearbyActive": "40,229,150,24",
+    "NearbyActive": "40,36,229,150",
     "facebook_link": "https://www.facebook.com/groups/5899524516802504/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": "28768"
   },
@@ -2712,7 +2712,7 @@
     "CityID": 182,
     "PageURL": "https://eapickleball.com/trenton/",
     "Province": "ON",
-    "NearbyActive": "40,24,150,17",
+    "NearbyActive": "36,40,24,150",
     "facebook_link": "https://www.facebook.com/groups/1812609022978393/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": "35145"
   },
