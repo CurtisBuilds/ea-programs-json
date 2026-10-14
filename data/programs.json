@@ -3981,7 +3981,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 93.6,
+    "TotalPrice": 78,
     "ListingCode": "EA-PROGRAM-490",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -3990,7 +3990,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "93.60"
+    "StaticPriceText": "78"
   },
   {
     "Day": "Tuesdays",
@@ -4014,7 +4014,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 93.6,
+    "TotalPrice": 78,
     "ListingCode": "EA-PROGRAM-491",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -4023,7 +4023,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "93.60"
+    "StaticPriceText": "78"
   },
   {
     "Day": "Mondays",
@@ -6811,7 +6811,7 @@
     "MinAge": "5",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-24",
     "Province": "ON",
@@ -7075,7 +7075,7 @@
     "MinAge": "8",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-24",
     "Province": "ON",
