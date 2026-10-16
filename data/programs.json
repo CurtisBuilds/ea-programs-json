@@ -7813,7 +7813,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81314",
     "SessionDates": "2026-10-08,2026-10-15,2026-10-29,2026-11-05,2026-11-12,2026-11-19",
     "is_cancelled": false,
-    "updated_price": "92.50",
+    "updated_price": "74.00",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -7978,7 +7978,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/73327",
     "SessionDates": "2026-09-17,2026-09-24,2026-10-01,2026-10-08,2026-10-15,2026-10-22",
     "is_cancelled": false,
-    "updated_price": "37.00",
+    "updated_price": "18.50",
     "pageIdentifyer": "surrey",
     "StaticPriceText": null
   },
@@ -8110,7 +8110,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/80685",
     "SessionDates": "2026-10-15,2026-10-22,2026-10-29,2026-11-05,2026-11-12,2026-11-19,2026-11-26,2026-12-03,2026-12-10,2026-12-17",
     "is_cancelled": false,
-    "updated_price": "185.00",
+    "updated_price": "166.50",
     "pageIdentifyer": "terrace",
     "StaticPriceText": null
   },
