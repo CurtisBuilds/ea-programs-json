@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-15T12:44:08.247Z",
-  "finished_at": "2026-10-15T12:46:32.024Z",
-  "feed_rows": 259,
-  "pages_checked": 72,
-  "cards_expected": 253,
-  "cards_seen": 253,
+  "ran_at": "2026-10-16T08:10:37.986Z",
+  "finished_at": "2026-10-16T08:13:15.298Z",
+  "feed_rows": 261,
+  "pages_checked": 70,
+  "cards_expected": 255,
+  "cards_seen": 255,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -256,15 +256,9 @@
       "problems": 0
     },
     {
-      "page": "eapickleball.com/moose-jaw",
-      "expected": 1,
-      "cards": 1,
-      "problems": 0
-    },
-    {
       "page": "eapickleball.com/nanaimo",
-      "expected": 2,
-      "cards": 2,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -275,8 +269,8 @@
     },
     {
       "page": "eapickleball.com/newmarket",
-      "expected": 9,
-      "cards": 9,
+      "expected": 10,
+      "cards": 10,
       "problems": 0
     },
     {
@@ -335,8 +329,8 @@
     },
     {
       "page": "eapickleball.com/prince-george",
-      "expected": 3,
-      "cards": 3,
+      "expected": 5,
+      "cards": 5,
       "problems": 0
     },
     {
@@ -370,12 +364,6 @@
       "problems": 0
     },
     {
-      "page": "eapickleball.com/sooke",
-      "expected": 1,
-      "cards": 1,
-      "problems": 0
-    },
-    {
       "page": "eapickleball.com/squamish",
       "expected": 3,
       "cards": 3,
@@ -395,8 +383,8 @@
     },
     {
       "page": "eapickleball.com/surrey",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -419,8 +407,8 @@
     },
     {
       "page": "eapickleball.com/victoria",
-      "expected": 3,
-      "cards": 3,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
