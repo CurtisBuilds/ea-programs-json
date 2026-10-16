@@ -1102,7 +1102,7 @@
     "MinAge": "18",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
@@ -1267,7 +1267,7 @@
     "MinAge": "6",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
@@ -2727,7 +2727,7 @@
     "fee_index": null,
     "Exceptions": "2026-11-05",
     "Start Date": "2026-09-24",
-    "TotalPrice": 75,
+    "TotalPrice": 60,
     "ListingCode": "EA-PROGRAM-508",
     "LocationLink": "https://maps.app.goo.gl/ennbjqXwyaLg76x66",
     "LocationName": "Angus Recreation Centre",
@@ -2736,7 +2736,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "essa",
-    "StaticPriceText": "75"
+    "StaticPriceText": "60"
   },
   {
     "Day": "Thursdays",
@@ -2760,7 +2760,7 @@
     "fee_index": null,
     "Exceptions": "2026-11-05",
     "Start Date": "2026-09-24",
-    "TotalPrice": 75,
+    "TotalPrice": 60,
     "ListingCode": "EA-PROGRAM-509",
     "LocationLink": "https://maps.app.goo.gl/ennbjqXwyaLg76x66",
     "LocationName": "Angus Recreation Centre",
@@ -2769,7 +2769,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "essa",
-    "StaticPriceText": "75"
+    "StaticPriceText": "60"
   },
   {
     "Day": "Tuesdays",
