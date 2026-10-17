@@ -1,13 +1,23 @@
 {
-  "ran_at": "2026-10-16T12:34:26.496Z",
-  "finished_at": "2026-10-16T12:36:56.860Z",
+  "ran_at": "2026-10-17T08:10:32.835Z",
+  "finished_at": "2026-10-17T08:13:25.204Z",
   "feed_rows": 261,
   "pages_checked": 70,
   "cards_expected": 255,
-  "cards_seen": 255,
-  "high": 0,
+  "cards_seen": 253,
+  "high": 1,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "page": "elevationathletics.ca/barrie",
+      "program": null,
+      "title": null,
+      "field": "page",
+      "expected": "loads",
+      "shown": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
@@ -54,8 +64,8 @@
     {
       "page": "elevationathletics.ca/barrie",
       "expected": 2,
-      "cards": 2,
-      "problems": 0
+      "cards": 0,
+      "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
     },
     {
       "page": "eapickleball.com/bolton",
