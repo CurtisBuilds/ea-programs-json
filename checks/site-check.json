@@ -1,19 +1,47 @@
 {
-  "ran_at": "2026-10-17T11:41:29.356Z",
-  "finished_at": "2026-10-17T11:44:02.013Z",
+  "ran_at": "2026-10-18T08:10:35.394Z",
+  "finished_at": "2026-10-18T08:14:10.278Z",
   "feed_rows": 261,
   "pages_checked": 70,
   "cards_expected": 255,
-  "cards_seen": 255,
-  "high": 0,
+  "cards_seen": 251,
+  "high": 3,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "page": "eapickleball.com/ajax",
+      "program": null,
+      "title": null,
+      "field": "page",
+      "expected": "loads",
+      "shown": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-565",
+      "title": "Barrie - Beginner Basketball Training (Girls 6-14 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/barrie"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-566",
+      "title": "Barrie - Intermediate Basketball Training (Girls 6-14 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/barrie"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
       "expected": 2,
-      "cards": 2,
-      "problems": 0
+      "cards": 0,
+      "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
     },
     {
       "page": "eapickleball.com/alliston",
@@ -54,8 +82,8 @@
     {
       "page": "elevationathletics.ca/barrie",
       "expected": 2,
-      "cards": 2,
-      "problems": 0
+      "cards": 0,
+      "problems": 2
     },
     {
       "page": "eapickleball.com/bolton",
