@@ -3823,7 +3823,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-290",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-11-02,2026-11-09,2026-11-16,2026-11-23",
     "is_cancelled": false,
-    "updated_price": "75.00",
+    "updated_price": "60.00",
     "pageIdentifyer": "keswick",
     "StaticPriceText": null
   },
@@ -6429,7 +6429,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-331",
     "SessionDates": "2026-09-14,2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23,2026-11-30,2027-01-04",
     "is_cancelled": false,
-    "updated_price": "104.00",
+    "updated_price": "91.00",
     "pageIdentifyer": "port-perry",
     "StaticPriceText": null
   },
@@ -8571,7 +8571,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-427",
     "SessionDates": "2026-09-14,2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-11-02,2026-11-09",
     "is_cancelled": false,
-    "updated_price": "39.00",
+    "updated_price": "26.00",
     "pageIdentifyer": "whitby",
     "StaticPriceText": null
   },
