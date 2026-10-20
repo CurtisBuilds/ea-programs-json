@@ -127,7 +127,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-551",
     "SessionDates": "2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23",
     "is_cancelled": false,
-    "updated_price": "78.00",
+    "updated_price": "65.00",
     "pageIdentifyer": "alliston",
     "StaticPriceText": null
   },
@@ -7846,7 +7846,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-301",
     "SessionDates": "2026-09-14,2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "st-catharines",
     "StaticPriceText": null
   },
