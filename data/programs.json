@@ -3915,7 +3915,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 78,
+    "TotalPrice": 62.4,
     "ListingCode": "EA-PROGRAM-490",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -3924,7 +3924,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "78"
+    "StaticPriceText": "62.40"
   },
   {
     "Day": "Tuesdays",
@@ -3948,7 +3948,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 78,
+    "TotalPrice": 62.4,
     "ListingCode": "EA-PROGRAM-491",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -3957,7 +3957,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "78"
+    "StaticPriceText": "62.40"
   },
   {
     "Day": "Mondays",
