@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-20T12:49:03.214Z",
-  "finished_at": "2026-10-20T12:51:32.166Z",
-  "feed_rows": 261,
+  "ran_at": "2026-10-21T08:10:36.488Z",
+  "finished_at": "2026-10-21T08:13:00.051Z",
+  "feed_rows": 260,
   "pages_checked": 70,
-  "cards_expected": 255,
-  "cards_seen": 255,
+  "cards_expected": 253,
+  "cards_seen": 253,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -101,8 +101,8 @@
     },
     {
       "page": "eapickleball.com/calgary",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
@@ -383,8 +383,8 @@
     },
     {
       "page": "eapickleball.com/surrey",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
