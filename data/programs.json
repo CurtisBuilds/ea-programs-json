@@ -3849,7 +3849,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-16",
-    "TotalPrice": 93.6,
+    "TotalPrice": 78,
     "ListingCode": "EA-PROGRAM-527",
     "LocationLink": "https://maps.app.goo.gl/THS8aezJe2rCWWH56",
     "LocationName": "Nobleton Public School",
@@ -3858,7 +3858,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "93.60"
+    "StaticPriceText": "78"
   },
   {
     "Day": "Mondays",
