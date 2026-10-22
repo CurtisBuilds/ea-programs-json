@@ -1018,7 +1018,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-276",
     "SessionDates": "2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "bowmanville",
     "StaticPriceText": null
   },
@@ -6429,7 +6429,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-461",
     "SessionDates": "2026-09-16,2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11,2026-11-18,2026-11-25,2026-12-02",
     "is_cancelled": false,
-    "updated_price": "91.00",
+    "updated_price": "78.00",
     "pageIdentifyer": "port-perry",
     "StaticPriceText": null
   },
@@ -7582,7 +7582,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-288",
     "SessionDates": "2026-09-23,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28,2026-11-04,2026-11-11",
     "is_cancelled": false,
-    "updated_price": "60.00",
+    "updated_price": "45.00",
     "pageIdentifyer": "richmond-hill",
     "StaticPriceText": null
   },
@@ -8505,7 +8505,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-449",
     "SessionDates": "2026-09-16,2026-09-30,2026-10-07,2026-10-14,2026-10-21,2026-10-28",
     "is_cancelled": false,
-    "updated_price": "26.00",
+    "updated_price": "13.00",
     "pageIdentifyer": "whitby",
     "StaticPriceText": null
   },
