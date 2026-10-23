@@ -1,7 +1,7 @@
 {
-  "ran_at": "2026-10-22T13:03:43.845Z",
-  "finished_at": "2026-10-22T13:06:02.457Z",
-  "feed_rows": 260,
+  "ran_at": "2026-10-23T08:10:37.444Z",
+  "finished_at": "2026-10-23T08:12:52.853Z",
+  "feed_rows": 261,
   "pages_checked": 70,
   "cards_expected": 253,
   "cards_seen": 253,
@@ -245,8 +245,8 @@
     },
     {
       "page": "eapickleball.com/leduc",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "page": "eapickleball.com/nanaimo",
-      "expected": 3,
-      "cards": 3,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -383,8 +383,8 @@
     },
     {
       "page": "eapickleball.com/surrey",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "page": "eapickleball.com/victoria",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
