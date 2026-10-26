@@ -4907,7 +4907,7 @@
     "RegisterLink": "https://elevationathletics.ca/register/?program=EA-PROGRAM-395",
     "SessionDates": "2026-09-14,2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26",
     "is_cancelled": false,
-    "updated_price": "25.00",
+    "updated_price": null,
     "pageIdentifyer": "newmarket",
     "StaticPriceText": null
   },
