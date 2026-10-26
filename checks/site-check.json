@@ -1,95 +1,13 @@
 {
-  "ran_at": "2026-10-25T12:39:23.960Z",
-  "finished_at": "2026-10-25T12:42:35.483Z",
+  "ran_at": "2026-10-26T08:10:39.080Z",
+  "finished_at": "2026-10-26T08:13:09.434Z",
   "feed_rows": 264,
   "pages_checked": 70,
   "cards_expected": 254,
-  "cards_seen": 245,
-  "high": 9,
+  "cards_seen": 254,
+  "high": 0,
   "medium": 0,
-  "problems": [
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-537",
-      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-538",
-      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-539",
-      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-339",
-      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-341",
-      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-343",
-      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-340",
-      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-342",
-      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    },
-    {
-      "severity": "high",
-      "program": "EA-PROGRAM-338",
-      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
-      "field": "card",
-      "expected": "shown on this page",
-      "shown": "missing",
-      "page": "eabadminton.com/newmarket-and-aurora"
-    }
-  ],
+  "problems": [],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
@@ -118,8 +36,8 @@
     {
       "page": "eabadminton.com/newmarket-and-aurora",
       "expected": 9,
-      "cards": 0,
-      "problems": 9
+      "cards": 9,
+      "problems": 0
     },
     {
       "page": "eapickleball.com/aurora",
