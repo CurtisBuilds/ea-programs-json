@@ -1300,7 +1300,7 @@
     "MinAge": "6",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
