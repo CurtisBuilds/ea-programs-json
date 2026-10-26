@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-26T08:10:39.080Z",
-  "finished_at": "2026-10-26T08:13:09.434Z",
-  "feed_rows": 264,
+  "ran_at": "2026-10-26T14:36:21.402Z",
+  "finished_at": "2026-10-26T14:38:43.616Z",
+  "feed_rows": 275,
   "pages_checked": 70,
-  "cards_expected": 254,
-  "cards_seen": 254,
+  "cards_expected": 265,
+  "cards_seen": 265,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -59,8 +59,8 @@
     },
     {
       "page": "eapickleball.com/bolton",
-      "expected": 3,
-      "cards": 3,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "page": "eapickleball.com/brampton",
-      "expected": 5,
-      "cards": 5,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
@@ -95,8 +95,8 @@
     },
     {
       "page": "eapickleball.com/caledon",
-      "expected": 7,
-      "cards": 7,
+      "expected": 8,
+      "cards": 8,
       "problems": 0
     },
     {
@@ -167,8 +167,8 @@
     },
     {
       "page": "eapickleball.com/fonthill",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -197,8 +197,8 @@
     },
     {
       "page": "eapickleball.com/guelph",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -251,8 +251,8 @@
     },
     {
       "page": "eapickleball.com/lindsay",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -299,8 +299,8 @@
     },
     {
       "page": "eapickleball.com/oshawa",
-      "expected": 5,
-      "cards": 5,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
@@ -371,14 +371,14 @@
     },
     {
       "page": "eapickleball.com/st-catharines",
-      "expected": 3,
-      "cards": 3,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
       "page": "eapickleball.com/stouffville",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -401,8 +401,8 @@
     },
     {
       "page": "eapickleball.com/uxbridge",
-      "expected": 2,
-      "cards": 2,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -419,8 +419,8 @@
     },
     {
       "page": "eapickleball.com/whitby",
-      "expected": 6,
-      "cards": 6,
+      "expected": 7,
+      "cards": 7,
       "problems": 0
     },
     {
