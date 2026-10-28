@@ -3013,7 +3013,7 @@
     "MinAge": "5",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-12-11",
     "Province": "ON",
@@ -4110,7 +4110,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 156,
+    "TotalPrice": 62.4,
     "ListingCode": "EA-PROGRAM-525",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -4119,7 +4119,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "156"
+    "StaticPriceText": "62.40"
   },
   {
     "Day": "Mondays",
@@ -4135,7 +4135,7 @@
     "MinAge": "16",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-11-23",
     "Province": "ON",
@@ -4176,7 +4176,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 62.4,
+    "TotalPrice": 46.8,
     "ListingCode": "EA-PROGRAM-490",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -4185,7 +4185,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "62.40"
+    "StaticPriceText": "46.80"
   },
   {
     "Day": "Tuesdays",
@@ -4209,7 +4209,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-15",
-    "TotalPrice": 62.4,
+    "TotalPrice": 46.8,
     "ListingCode": "EA-PROGRAM-491",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -4218,7 +4218,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "62.40"
+    "StaticPriceText": "46.80"
   },
   {
     "Day": "Mondays",
@@ -7167,7 +7167,7 @@
     "MinAge": "11",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-18",
     "Province": "ON",
