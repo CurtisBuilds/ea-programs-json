@@ -2206,7 +2206,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77511",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
-    "updated_price": "129.50",
+    "updated_price": "111.00",
     "pageIdentifyer": "chilliwack",
     "StaticPriceText": null
   },
@@ -3985,7 +3985,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78750",
     "SessionDates": "2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": "92.50",
+    "updated_price": "74.00",
     "pageIdentifyer": "kamloops",
     "StaticPriceText": null
   },
@@ -4676,7 +4676,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/77078",
     "SessionDates": "2026-09-15,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27",
     "is_cancelled": false,
-    "updated_price": "18.50",
+    "updated_price": null,
     "pageIdentifyer": "nanaimo",
     "StaticPriceText": null
   },
@@ -5996,7 +5996,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74832",
     "SessionDates": "2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08",
     "is_cancelled": false,
-    "updated_price": "129.50",
+    "updated_price": "111.00",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -8073,7 +8073,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/81315",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10",
     "is_cancelled": false,
-    "updated_price": "55.50",
+    "updated_price": "37.00",
     "pageIdentifyer": "squamish",
     "StaticPriceText": null
   },
@@ -8500,7 +8500,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/80682",
     "SessionDates": "2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01,2026-12-08,2026-12-15",
     "is_cancelled": false,
-    "updated_price": "148.00",
+    "updated_price": "129.50",
     "pageIdentifyer": "terrace",
     "StaticPriceText": null
   },
@@ -8796,7 +8796,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/76412",
     "SessionDates": "2026-09-15,2026-09-22,2026-09-29,2026-10-06,2026-10-13,2026-10-20,2026-10-27",
     "is_cancelled": false,
-    "updated_price": "18.50",
+    "updated_price": null,
     "pageIdentifyer": "victoria",
     "StaticPriceText": null
   },
