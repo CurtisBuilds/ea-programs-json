@@ -259,7 +259,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-330",
     "SessionDates": "2026-09-10,2026-09-17,2026-09-24,2026-10-01,2026-10-08,2026-10-15,2026-10-22,2026-10-29",
     "is_cancelled": false,
-    "updated_price": "13.00",
+    "updated_price": null,
     "pageIdentifyer": "arnprior",
     "StaticPriceText": null
   },
@@ -2731,7 +2731,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-adult/?program=EA-PROGRAM-316",
     "SessionDates": "2026-09-17,2026-09-24,2026-10-01,2026-10-08,2026-10-15,2026-10-22,2026-10-29,2026-11-05",
     "is_cancelled": false,
-    "updated_price": "30.00",
+    "updated_price": "15.00",
     "pageIdentifyer": "cornwall",
     "StaticPriceText": null
   },
