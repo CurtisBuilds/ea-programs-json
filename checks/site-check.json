@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-10-29T14:30:22.473Z",
-  "finished_at": "2026-10-29T14:32:58.258Z",
+  "ran_at": "2026-10-30T08:11:01.614Z",
+  "finished_at": "2026-10-30T08:13:35.737Z",
   "feed_rows": 288,
   "pages_checked": 71,
-  "cards_expected": 268,
-  "cards_seen": 268,
+  "cards_expected": 266,
+  "cards_seen": 266,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -29,8 +29,8 @@
     },
     {
       "page": "eapickleball.com/arnprior",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -239,8 +239,8 @@
     },
     {
       "page": "eapickleball.com/lakefield",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
