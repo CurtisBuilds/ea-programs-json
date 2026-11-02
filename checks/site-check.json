@@ -1,13 +1,113 @@
 {
-  "ran_at": "2026-11-01T14:23:18.366Z",
-  "finished_at": "2026-11-01T14:25:50.378Z",
-  "feed_rows": 289,
+  "ran_at": "2026-11-02T08:10:33.106Z",
+  "finished_at": "2026-11-02T08:14:50.900Z",
+  "feed_rows": 280,
   "pages_checked": 71,
   "cards_expected": 259,
-  "cards_seen": 259,
-  "high": 0,
+  "cards_seen": 248,
+  "high": 11,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-537",
+      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-538",
+      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-539",
+      "title": "Aurora - Intermediate/Advanced Badminton (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-339",
+      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-341",
+      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-343",
+      "title": "Newmarket - Jr Badminton - Advanced (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-340",
+      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-342",
+      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-338",
+      "title": "Newmarket - Jr Badminton - Beginner/Intermediate (8+ yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "eabadminton.com/newmarket-and-aurora"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-565",
+      "title": "Barrie - Beginner Basketball Training (Girls 6-14 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/barrie"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-566",
+      "title": "Barrie - Intermediate Basketball Training (Girls 6-14 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/barrie"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
@@ -36,8 +136,8 @@
     {
       "page": "eabadminton.com/newmarket-and-aurora",
       "expected": 9,
-      "cards": 9,
-      "problems": 0
+      "cards": 0,
+      "problems": 9
     },
     {
       "page": "eapickleball.com/aurora",
@@ -54,8 +154,8 @@
     {
       "page": "elevationathletics.ca/barrie",
       "expected": 2,
-      "cards": 2,
-      "problems": 0
+      "cards": 0,
+      "problems": 2
     },
     {
       "page": "eapickleball.com/bolton",
