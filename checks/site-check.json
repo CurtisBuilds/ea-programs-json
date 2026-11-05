@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-04T15:34:06.553Z",
-  "finished_at": "2026-11-04T15:36:27.394Z",
+  "ran_at": "2026-11-05T08:10:42.407Z",
+  "finished_at": "2026-11-05T08:13:14.562Z",
   "feed_rows": 299,
   "pages_checked": 72,
-  "cards_expected": 273,
-  "cards_seen": 273,
+  "cards_expected": 270,
+  "cards_seen": 270,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -131,8 +131,8 @@
     },
     {
       "page": "eapickleball.com/coquitlam",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "page": "eapickleball.com/oshawa",
-      "expected": 5,
-      "cards": 5,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -413,8 +413,8 @@
     },
     {
       "page": "eapickleball.com/uxbridge",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
