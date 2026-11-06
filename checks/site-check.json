@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-11-05T15:38:38.106Z",
-  "finished_at": "2026-11-05T15:41:09.149Z",
+  "ran_at": "2026-11-06T08:10:32.049Z",
+  "finished_at": "2026-11-06T08:13:01.132Z",
   "feed_rows": 299,
   "pages_checked": 72,
   "cards_expected": 270,
@@ -131,14 +131,14 @@
     },
     {
       "page": "eapickleball.com/coquitlam",
-      "expected": 3,
-      "cards": 3,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
       "page": "eapickleball.com/cornwall",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
