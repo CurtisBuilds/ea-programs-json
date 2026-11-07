@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-06T15:12:30.459Z",
-  "finished_at": "2026-11-06T15:14:55.546Z",
-  "feed_rows": 299,
+  "ran_at": "2026-11-07T08:10:28.831Z",
+  "finished_at": "2026-11-07T08:12:53.177Z",
+  "feed_rows": 302,
   "pages_checked": 72,
-  "cards_expected": 270,
-  "cards_seen": 270,
+  "cards_expected": 271,
+  "cards_seen": 271,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -35,8 +35,8 @@
     },
     {
       "page": "eabadminton.com/newmarket-and-aurora",
-      "expected": 9,
-      "cards": 9,
+      "expected": 12,
+      "cards": 12,
       "problems": 0
     },
     {
@@ -197,8 +197,8 @@
     },
     {
       "page": "eapickleball.com/guelph",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -431,8 +431,8 @@
     },
     {
       "page": "eapickleball.com/whitby",
-      "expected": 8,
-      "cards": 8,
+      "expected": 7,
+      "cards": 7,
       "problems": 0
     },
     {
