@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-08T14:23:23.891Z",
-  "finished_at": "2026-11-08T14:25:48.933Z",
+  "ran_at": "2026-11-09T08:10:42.603Z",
+  "finished_at": "2026-11-09T08:13:17.672Z",
   "feed_rows": 302,
   "pages_checked": 72,
-  "cards_expected": 271,
-  "cards_seen": 271,
+  "cards_expected": 268,
+  "cards_seen": 268,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -77,8 +77,8 @@
     },
     {
       "page": "eapickleball.com/bradford",
-      "expected": 6,
-      "cards": 6,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
