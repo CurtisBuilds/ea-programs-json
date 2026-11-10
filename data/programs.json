@@ -1465,7 +1465,7 @@
     "MinAge": "18",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
@@ -1531,7 +1531,7 @@
     "MinAge": "18",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
@@ -1630,7 +1630,7 @@
     "MinAge": "6",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-08",
     "Province": "ON",
@@ -5628,7 +5628,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 46.8,
+    "TotalPrice": 31.2,
     "ListingCode": "EA-PROGRAM-525",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5637,7 +5637,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "46.80"
+    "StaticPriceText": "31.20"
   },
   {
     "Day": "Mondays",
@@ -5661,7 +5661,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 46.8,
+    "TotalPrice": 31.2,
     "ListingCode": "EA-PROGRAM-487",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5670,7 +5670,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "46.80"
+    "StaticPriceText": "31.20"
   },
   {
     "Day": "Tuesdays",
@@ -5760,7 +5760,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 46.8,
+    "TotalPrice": 31.2,
     "ListingCode": "EA-PROGRAM-486",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5769,7 +5769,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "46.80"
+    "StaticPriceText": "31.20"
   },
   {
     "Day": "Thursdays",
