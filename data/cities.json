@@ -572,6 +572,19 @@
     "newsletter_shortcode": null
   },
   {
+    "GPN": null,
+    "lat": null,
+    "lng": null,
+    "City": "Colwood",
+    "Active": 1,
+    "CityID": 558,
+    "PageURL": "https://eapickleball.com/colwood/",
+    "Province": "BC",
+    "NearbyActive": null,
+    "facebook_link": null,
+    "newsletter_shortcode": null
+  },
+  {
     "GPN": "N/A",
     "lat": null,
     "lng": null,
@@ -2838,7 +2851,7 @@
     "lat": 48.4283182,
     "lng": -123.364953,
     "City": "Victoria",
-    "Active": 4,
+    "Active": 5,
     "CityID": 13,
     "PageURL": "https://eapickleball.com/victoria/",
     "Province": "BC",
