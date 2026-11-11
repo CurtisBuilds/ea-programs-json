@@ -43,7 +43,7 @@
     "lat": 44.1539369,
     "lng": -79.8692321,
     "City": "Alliston",
-    "Active": 4,
+    "Active": 5,
     "CityID": 37,
     "PageURL": "https://eapickleball.com/alliston/",
     "Province": "ON",
@@ -557,6 +557,19 @@
     "NearbyActive": "141,18,138,16",
     "facebook_link": "https://www.facebook.com/groups/8816596995069971/?ref=share&mibextid=NSMWBT",
     "newsletter_shortcode": "30205"
+  },
+  {
+    "GPN": null,
+    "lat": null,
+    "lng": null,
+    "City": "Collingwood",
+    "Active": 1,
+    "CityID": 557,
+    "PageURL": "https://eapickleball.com/collingwood",
+    "Province": "ON",
+    "NearbyActive": null,
+    "facebook_link": null,
+    "newsletter_shortcode": null
   },
   {
     "GPN": "N/A",
