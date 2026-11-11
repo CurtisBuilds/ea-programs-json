@@ -9192,7 +9192,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-sk/?program=EA-SK-003",
     "SessionDates": "2026-10-06,2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24",
     "is_cancelled": false,
-    "updated_price": "39.00",
+    "updated_price": "26.00",
     "pageIdentifyer": "saskatoon",
     "StaticPriceText": null
   },
@@ -10341,7 +10341,7 @@
     "RegisterLink": "https://elevationathletics.ca/register-mb/?program=EA-MB-001",
     "SessionDates": "2026-10-13,2026-10-20,2026-10-27,2026-11-03,2026-11-10,2026-11-17,2026-11-24,2026-12-01",
     "is_cancelled": false,
-    "updated_price": "52.00",
+    "updated_price": "39.00",
     "pageIdentifyer": "winnipeg",
     "StaticPriceText": null
   }
