@@ -7064,7 +7064,7 @@
     "MinAge": "16",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-10",
     "Province": "ON",
@@ -7171,7 +7171,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-16",
-    "TotalPrice": 46.8,
+    "TotalPrice": 31.2,
     "ListingCode": "EA-PROGRAM-527",
     "LocationLink": "https://maps.app.goo.gl/THS8aezJe2rCWWH56",
     "LocationName": "Nobleton Public School",
@@ -7180,7 +7180,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "nobleton",
-    "StaticPriceText": "46.80"
+    "StaticPriceText": "31.20"
   },
   {
     "Day": "Mondays",
@@ -7622,7 +7622,7 @@
     "MinAge": "18",
     "Prorate": false,
     "fee_url": null,
-    "is_full": true,
+    "is_full": false,
     "Category": "TS",
     "End Date": "2026-11-10",
     "Province": "ON",
