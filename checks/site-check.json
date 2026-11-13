@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-13T08:10:50.629Z",
-  "finished_at": "2026-11-13T08:13:21.613Z",
-  "feed_rows": 336,
+  "ran_at": "2026-11-13T15:31:45.539Z",
+  "finished_at": "2026-11-13T15:34:06.739Z",
+  "feed_rows": 345,
   "pages_checked": 73,
-  "cards_expected": 286,
-  "cards_seen": 286,
+  "cards_expected": 295,
+  "cards_seen": 295,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -23,8 +23,8 @@
     },
     {
       "page": "eapickleball.com/almonte",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -47,8 +47,8 @@
     },
     {
       "page": "eapickleball.com/bancroft",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -119,8 +119,8 @@
     },
     {
       "page": "eapickleball.com/carleton-place",
-      "expected": 3,
-      "cards": 3,
+      "expected": 5,
+      "cards": 5,
       "problems": 0
     },
     {
@@ -167,8 +167,8 @@
     },
     {
       "page": "eapickleball.com/erin",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -239,8 +239,8 @@
     },
     {
       "page": "eapickleball.com/keswick",
-      "expected": 5,
-      "cards": 5,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
@@ -275,8 +275,8 @@
     },
     {
       "page": "eapickleball.com/newmarket",
-      "expected": 12,
-      "cards": 12,
+      "expected": 13,
+      "cards": 13,
       "problems": 0
     },
     {
@@ -329,8 +329,8 @@
     },
     {
       "page": "eapickleball.com/port-colborne",
-      "expected": 1,
-      "cards": 1,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -431,8 +431,8 @@
     },
     {
       "page": "eapickleball.com/wasaga-beach",
-      "expected": 2,
-      "cards": 2,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
