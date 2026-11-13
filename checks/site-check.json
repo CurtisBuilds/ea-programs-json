@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-12T16:04:08.129Z",
-  "finished_at": "2026-11-12T16:06:33.838Z",
-  "feed_rows": 334,
-  "pages_checked": 74,
-  "cards_expected": 285,
-  "cards_seen": 285,
+  "ran_at": "2026-11-13T08:10:50.629Z",
+  "finished_at": "2026-11-13T08:13:21.613Z",
+  "feed_rows": 336,
+  "pages_checked": 73,
+  "cards_expected": 286,
+  "cards_seen": 286,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -125,8 +125,8 @@
     },
     {
       "page": "eapickleball.com/chilliwack",
-      "expected": 2,
-      "cards": 2,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -253,12 +253,6 @@
       "page": "eapickleball.com/lakefield",
       "expected": 5,
       "cards": 5,
-      "problems": 0
-    },
-    {
-      "page": "eapickleball.com/leduc",
-      "expected": 1,
-      "cards": 1,
       "problems": 0
     },
     {
