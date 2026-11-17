@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-16T17:12:22.373Z",
-  "finished_at": "2026-11-16T17:14:43.243Z",
+  "ran_at": "2026-11-17T08:10:36.601Z",
+  "finished_at": "2026-11-17T08:13:11.802Z",
   "feed_rows": 343,
   "pages_checked": 73,
-  "cards_expected": 288,
-  "cards_seen": 288,
+  "cards_expected": 284,
+  "cards_seen": 284,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -215,8 +215,8 @@
     },
     {
       "page": "eapickleball.com/haliburton",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
@@ -251,8 +251,8 @@
     },
     {
       "page": "eapickleball.com/lakefield",
-      "expected": 5,
-      "cards": 5,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -275,8 +275,8 @@
     },
     {
       "page": "eapickleball.com/newmarket",
-      "expected": 11,
-      "cards": 11,
+      "expected": 10,
+      "cards": 10,
       "problems": 0
     },
     {
@@ -437,8 +437,8 @@
     },
     {
       "page": "eapickleball.com/whitby",
-      "expected": 6,
-      "cards": 6,
+      "expected": 5,
+      "cards": 5,
       "problems": 0
     },
     {
