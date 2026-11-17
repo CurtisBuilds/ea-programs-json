@@ -5361,7 +5361,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2026-09-22",
-    "TotalPrice": 98.20,
+    "TotalPrice": 98.2,
     "ListingCode": "EA-PROGRAM-354",
     "LocationLink": "https://maps.app.goo.gl/zd7nov1zbeaAVzak8",
     "LocationName": "Alcona Glen Elementary School",
@@ -5787,7 +5787,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 31.2,
+    "TotalPrice": 15.6,
     "ListingCode": "EA-PROGRAM-525",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5796,7 +5796,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "31.20"
+    "StaticPriceText": "15.60"
   },
   {
     "Day": "Mondays",
@@ -5820,7 +5820,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 31.2,
+    "TotalPrice": 15.6,
     "ListingCode": "EA-PROGRAM-487",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5829,7 +5829,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "31.20"
+    "StaticPriceText": "15.60"
   },
   {
     "Day": "Tuesdays",
@@ -5919,7 +5919,7 @@
     "fee_index": null,
     "Exceptions": "2026-10-12",
     "Start Date": "2026-09-14",
-    "TotalPrice": 31.2,
+    "TotalPrice": 15.6,
     "ListingCode": "EA-PROGRAM-486",
     "LocationLink": "https://maps.app.goo.gl/Eai36pSDnurRyeXTA",
     "LocationName": "King City Public School",
@@ -5928,7 +5928,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "king-city",
-    "StaticPriceText": "31.20"
+    "StaticPriceText": "15.60"
   },
   {
     "Day": "Thursdays",
