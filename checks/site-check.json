@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-17T08:10:36.601Z",
-  "finished_at": "2026-11-17T08:13:11.802Z",
-  "feed_rows": 343,
-  "pages_checked": 73,
-  "cards_expected": 284,
-  "cards_seen": 284,
+  "ran_at": "2026-11-17T16:58:25.221Z",
+  "finished_at": "2026-11-17T17:00:39.680Z",
+  "feed_rows": 342,
+  "pages_checked": 72,
+  "cards_expected": 283,
+  "cards_seen": 283,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -253,12 +253,6 @@
       "page": "eapickleball.com/lakefield",
       "expected": 4,
       "cards": 4,
-      "problems": 0
-    },
-    {
-      "page": "eapickleball.com/lindsay",
-      "expected": 1,
-      "cards": 1,
       "problems": 0
     },
     {
