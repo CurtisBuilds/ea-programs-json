@@ -5433,7 +5433,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/78749",
     "SessionDates": "2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23",
     "is_cancelled": false,
-    "updated_price": "37.00",
+    "updated_price": "18.50",
     "pageIdentifyer": "kamloops",
     "StaticPriceText": null
   },
@@ -7472,7 +7472,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74830",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23,2026-11-30,2026-12-07",
     "is_cancelled": false,
-    "updated_price": "74.00",
+    "updated_price": "55.50",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -7635,7 +7635,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/74831",
     "SessionDates": "2026-09-21,2026-09-28,2026-10-05,2026-10-19,2026-10-26,2026-11-02,2026-11-09,2026-11-16,2026-11-23,2026-11-30,2026-12-07,2026-12-14",
     "is_cancelled": false,
-    "updated_price": "92.50",
+    "updated_price": "74.00",
     "pageIdentifyer": "north-vancouver",
     "StaticPriceText": null
   },
@@ -10953,7 +10953,7 @@
     "RegisterLink": "https://registration.teamsnap.com/form/85141",
     "SessionDates": "2026-11-09,2026-11-16,2026-11-23,2026-11-30",
     "is_cancelled": false,
-    "updated_price": "78.00",
+    "updated_price": "52.00",
     "pageIdentifyer": "victoria",
     "StaticPriceText": null
   },
