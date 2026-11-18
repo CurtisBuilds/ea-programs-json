@@ -8646,7 +8646,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-09",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-702",
     "LocationLink": "https://maps.app.goo.gl/Sw6caqQZrqvXYdc16",
     "LocationName": "Langstaff Community Centre",
@@ -8655,7 +8655,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Saturdays",
@@ -8679,7 +8679,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-09",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-703",
     "LocationLink": "https://maps.app.goo.gl/Sw6caqQZrqvXYdc16",
     "LocationName": "Langstaff Community Centre",
@@ -8688,7 +8688,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Saturdays",
@@ -8745,7 +8745,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-09",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-701",
     "LocationLink": "https://maps.app.goo.gl/Sw6caqQZrqvXYdc16",
     "LocationName": "Langstaff Community Centre",
@@ -8754,7 +8754,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Tuesdays",
@@ -8844,7 +8844,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-709",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -8853,7 +8853,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Wednesdays",
@@ -8976,7 +8976,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-712",
     "LocationLink": "https://maps.app.goo.gl/X9rSgQqpAEeMqeTc7",
     "LocationName": "Richvale Community Centre",
@@ -8985,7 +8985,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Saturdays",
@@ -9009,7 +9009,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-09",
-    "TotalPrice": null,
+    "TotalPrice": 141.45,
     "ListingCode": "EA-PROGRAM-700",
     "LocationLink": "https://maps.app.goo.gl/dUCQnusZgR1BwWSx6",
     "LocationName": "Bayview Hill Community Centre & Pool",
@@ -9018,7 +9018,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "141.45"
   },
   {
     "Day": "Tuesdays",
@@ -9141,7 +9141,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-707",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9150,7 +9150,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Sundays",
@@ -9174,7 +9174,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-10",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-704",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9183,7 +9183,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Wednesdays",
@@ -9207,7 +9207,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-13",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-713",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9216,7 +9216,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Wednesdays",
@@ -9306,7 +9306,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-710",
     "LocationLink": "https://maps.app.goo.gl/X9rSgQqpAEeMqeTc7",
     "LocationName": "Richvale Community Centre",
@@ -9315,7 +9315,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Sundays",
@@ -9438,7 +9438,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-708",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9447,7 +9447,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Wednesdays",
@@ -9471,7 +9471,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-13",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-714",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9480,7 +9480,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Saturdays",
@@ -9504,7 +9504,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-09",
-    "TotalPrice": null,
+    "TotalPrice": 141.45,
     "ListingCode": "EA-PROGRAM-699",
     "LocationLink": "https://maps.app.goo.gl/dUCQnusZgR1BwWSx6",
     "LocationName": "Bayview Hill Community Centre & Pool",
@@ -9513,7 +9513,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "141.45"
   },
   {
     "Day": "Sundays",
@@ -9537,7 +9537,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-10",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-705",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9546,7 +9546,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Saturdays",
@@ -9702,7 +9702,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-12",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-711",
     "LocationLink": "https://maps.app.goo.gl/X9rSgQqpAEeMqeTc7",
     "LocationName": "Richvale Community Centre",
@@ -9711,7 +9711,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Tuesdays",
@@ -9867,7 +9867,7 @@
     "fee_index": null,
     "Exceptions": "N/A",
     "Start Date": "2027-01-10",
-    "TotalPrice": null,
+    "TotalPrice": 136,
     "ListingCode": "EA-PROGRAM-706",
     "LocationLink": "https://maps.app.goo.gl/NsJsB5eJeQWc5EbL6",
     "LocationName": "Elgin West Community Centre",
@@ -9876,7 +9876,7 @@
     "is_cancelled": false,
     "updated_price": null,
     "pageIdentifyer": "richmond-hill",
-    "StaticPriceText": null
+    "StaticPriceText": "136"
   },
   {
     "Day": "Sundays",
