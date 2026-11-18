@@ -9430,7 +9430,7 @@
     "MinAge": "8",
     "Prorate": false,
     "fee_url": null,
-    "is_full": false,
+    "is_full": true,
     "Category": "TS",
     "End Date": "2026-12-16",
     "Province": "ON",
