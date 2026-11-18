@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-17T16:58:25.221Z",
-  "finished_at": "2026-11-17T17:00:39.680Z",
-  "feed_rows": 342,
+  "ran_at": "2026-11-18T08:10:41.378Z",
+  "finished_at": "2026-11-18T08:13:14.522Z",
+  "feed_rows": 341,
   "pages_checked": 72,
-  "cards_expected": 283,
-  "cards_seen": 283,
+  "cards_expected": 267,
+  "cards_seen": 267,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -71,8 +71,8 @@
     },
     {
       "page": "eapickleball.com/bracebridge",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
@@ -83,8 +83,8 @@
     },
     {
       "page": "eapickleball.com/brampton",
-      "expected": 7,
-      "cards": 7,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
@@ -95,8 +95,8 @@
     },
     {
       "page": "eapickleball.com/caledon",
-      "expected": 10,
-      "cards": 10,
+      "expected": 9,
+      "cards": 9,
       "problems": 0
     },
     {
@@ -107,8 +107,8 @@
     },
     {
       "page": "eapickleball.com/cambridge",
-      "expected": 12,
-      "cards": 12,
+      "expected": 11,
+      "cards": 11,
       "problems": 0
     },
     {
@@ -155,8 +155,8 @@
     },
     {
       "page": "eapickleball.com/courtice",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -245,8 +245,8 @@
     },
     {
       "page": "eapickleball.com/king-city",
-      "expected": 5,
-      "cards": 5,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -269,8 +269,8 @@
     },
     {
       "page": "eapickleball.com/newmarket",
-      "expected": 10,
-      "cards": 10,
+      "expected": 7,
+      "cards": 7,
       "problems": 0
     },
     {
@@ -347,14 +347,14 @@
     },
     {
       "page": "elevationathletics.ca/richmond-hill",
-      "expected": 22,
-      "cards": 22,
+      "expected": 19,
+      "cards": 19,
       "problems": 0
     },
     {
       "page": "eapickleball.com/richmond-hill",
-      "expected": 8,
-      "cards": 8,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
@@ -383,8 +383,8 @@
     },
     {
       "page": "eapickleball.com/st-catharines",
-      "expected": 5,
-      "cards": 5,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
