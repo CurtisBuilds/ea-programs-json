@@ -5641,7 +5641,7 @@
     "Time": "6:00 - 8:00 PM",
     "Title": "Keswick - Pickleball League Women's Intermediate",
     "Trial": null,
-    "level": null,
+    "level": "3",
     "sport": "pb",
     "MaxAge": "99",
     "MinAge": "16",
