@@ -1,29 +1,19 @@
 {
-  "ran_at": "2026-11-19T16:40:57.286Z",
-  "finished_at": "2026-11-19T16:44:16.951Z",
-  "feed_rows": 356,
-  "pages_checked": 72,
-  "cards_expected": 270,
-  "cards_seen": 269,
-  "high": 1,
+  "ran_at": "2026-11-20T08:10:29.683Z",
+  "finished_at": "2026-11-20T08:13:03.144Z",
+  "feed_rows": 355,
+  "pages_checked": 71,
+  "cards_expected": 261,
+  "cards_seen": 261,
+  "high": 0,
   "medium": 0,
-  "problems": [
-    {
-      "severity": "high",
-      "page": "eapickleball.com/ajax",
-      "program": null,
-      "title": null,
-      "field": "page",
-      "expected": "loads",
-      "shown": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
-    }
-  ],
+  "problems": [],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
       "expected": 1,
-      "cards": 0,
-      "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+      "cards": 1,
+      "problems": 0
     },
     {
       "page": "eapickleball.com/alliston",
@@ -45,14 +35,14 @@
     },
     {
       "page": "eabadminton.com/newmarket-and-aurora",
-      "expected": 11,
-      "cards": 11,
+      "expected": 9,
+      "cards": 9,
       "problems": 0
     },
     {
       "page": "eapickleball.com/aurora",
-      "expected": 10,
-      "cards": 10,
+      "expected": 8,
+      "cards": 8,
       "problems": 0
     },
     {
@@ -75,8 +65,8 @@
     },
     {
       "page": "eapickleball.com/bowmanville",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
@@ -93,8 +83,8 @@
     },
     {
       "page": "eapickleball.com/brampton",
-      "expected": 5,
-      "cards": 5,
+      "expected": 4,
+      "cards": 4,
       "problems": 0
     },
     {
@@ -105,8 +95,8 @@
     },
     {
       "page": "eapickleball.com/caledon",
-      "expected": 7,
-      "cards": 7,
+      "expected": 8,
+      "cards": 8,
       "problems": 0
     },
     {
@@ -177,12 +167,6 @@
     },
     {
       "page": "eapickleball.com/erin",
-      "expected": 2,
-      "cards": 2,
-      "problems": 0
-    },
-    {
-      "page": "elevationathletics.ca/essa",
       "expected": 2,
       "cards": 2,
       "problems": 0
@@ -387,14 +371,14 @@
     },
     {
       "page": "eapickleball.com/squamish",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
       "page": "eapickleball.com/st-catharines",
-      "expected": 4,
-      "cards": 4,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
