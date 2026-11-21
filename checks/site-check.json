@@ -1,13 +1,41 @@
 {
-  "ran_at": "2026-11-20T16:16:28.305Z",
-  "finished_at": "2026-11-20T16:18:55.459Z",
+  "ran_at": "2026-11-21T08:11:00.726Z",
+  "finished_at": "2026-11-21T08:14:19.912Z",
   "feed_rows": 355,
-  "pages_checked": 71,
-  "cards_expected": 261,
-  "cards_seen": 261,
-  "high": 0,
+  "pages_checked": 70,
+  "cards_expected": 254,
+  "cards_seen": 251,
+  "high": 3,
   "medium": 0,
-  "problems": [],
+  "problems": [
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-512",
+      "title": "Georgina - Jr Basketball (5 - 7 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/georgina"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-513",
+      "title": "Georgina - Jr Basketball (8 - 11 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/georgina"
+    },
+    {
+      "severity": "high",
+      "program": "EA-PROGRAM-483",
+      "title": "Georgina - Youth Basketball League (8 - 10 yrs)",
+      "field": "card",
+      "expected": "shown on this page",
+      "shown": "missing",
+      "page": "elevationathletics.ca/georgina"
+    }
+  ],
   "pages": [
     {
       "page": "eapickleball.com/ajax",
@@ -23,8 +51,8 @@
     },
     {
       "page": "eapickleball.com/almonte",
-      "expected": 2,
-      "cards": 2,
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
@@ -41,18 +69,12 @@
     },
     {
       "page": "eapickleball.com/aurora",
-      "expected": 8,
-      "cards": 8,
+      "expected": 6,
+      "cards": 6,
       "problems": 0
     },
     {
       "page": "eapickleball.com/bancroft",
-      "expected": 2,
-      "cards": 2,
-      "problems": 0
-    },
-    {
-      "page": "elevationathletics.ca/barrie",
       "expected": 2,
       "cards": 2,
       "problems": 0
@@ -119,8 +141,8 @@
     },
     {
       "page": "eapickleball.com/carleton-place",
-      "expected": 5,
-      "cards": 5,
+      "expected": 3,
+      "cards": 3,
       "problems": 0
     },
     {
@@ -186,8 +208,8 @@
     {
       "page": "elevationathletics.ca/georgina",
       "expected": 3,
-      "cards": 3,
-      "problems": 0
+      "cards": 0,
+      "problems": 3
     },
     {
       "page": "eapickleball.com/gravenhurst",
