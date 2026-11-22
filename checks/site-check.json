@@ -1,10 +1,10 @@
 {
-  "ran_at": "2026-11-21T15:28:14.893Z",
-  "finished_at": "2026-11-21T15:30:24.778Z",
+  "ran_at": "2026-11-22T08:10:59.633Z",
+  "finished_at": "2026-11-22T08:13:26.165Z",
   "feed_rows": 355,
-  "pages_checked": 70,
-  "cards_expected": 254,
-  "cards_seen": 254,
+  "pages_checked": 69,
+  "cards_expected": 249,
+  "cards_seen": 249,
   "high": 0,
   "medium": 0,
   "problems": [],
@@ -274,12 +274,6 @@
       "problems": 0
     },
     {
-      "page": "elevationathletics.ca/oro-medonte",
-      "expected": 3,
-      "cards": 3,
-      "problems": 0
-    },
-    {
       "page": "eapickleball.com/oro-medonte",
       "expected": 2,
       "cards": 2,
@@ -335,8 +329,8 @@
     },
     {
       "page": "elevationathletics.ca/richmond-hill",
-      "expected": 27,
-      "cards": 27,
+      "expected": 25,
+      "cards": 25,
       "problems": 0
     },
     {
