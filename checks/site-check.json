@@ -1,8 +1,8 @@
 {
-  "ran_at": "2026-11-23T08:10:51.385Z",
-  "finished_at": "2026-11-23T08:13:18.900Z",
-  "feed_rows": 355,
-  "pages_checked": 69,
+  "ran_at": "2026-11-23T19:22:16.695Z",
+  "finished_at": "2026-11-23T19:24:36.758Z",
+  "feed_rows": 353,
+  "pages_checked": 70,
   "cards_expected": 249,
   "cards_seen": 249,
   "high": 0,
@@ -49,6 +49,12 @@
       "page": "eapickleball.com/bancroft",
       "expected": 2,
       "cards": 2,
+      "problems": 0
+    },
+    {
+      "page": "elevationathletics.ca/barrie",
+      "expected": 1,
+      "cards": 1,
       "problems": 0
     },
     {
@@ -287,8 +293,8 @@
     },
     {
       "page": "eapickleball.com/oshawa",
-      "expected": 3,
-      "cards": 3,
+      "expected": 2,
+      "cards": 2,
       "problems": 0
     },
     {
